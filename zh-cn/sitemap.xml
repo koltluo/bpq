@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.senkuogroup.com/zh-cn/blog/high-performance-general-purpose-vector-frequency-converter/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.senkuogroup.com/blog/high-performance-general-purpose-vector-frequency-converter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.senkuogroup.com/zh-cn/blog/high-performance-general-purpose-vector-frequency-converter/"
-                />
-  </url><url>
     <loc>https://www.senkuogroup.com/zh-cn/docs/product-information/technical-specifications-table/</loc>
     <xhtml:link
                 rel="alternate"
@@ -640,7 +627,7 @@
                 />
   </url><url>
     <loc>https://www.senkuogroup.com/zh-cn/tags/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -652,11 +639,8 @@
                 href="https://www.senkuogroup.com/zh-cn/tags/"
                 />
   </url><url>
-    <loc>https://www.senkuogroup.com/zh-cn/tags/%E5%8F%98%E9%A2%91%E5%99%A8/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.senkuogroup.com/zh-cn/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -667,6 +651,78 @@
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/"
                 />
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/blog/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.senkuogroup.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.senkuogroup.com/zh-cn/blog/"
+                />
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/tags/%E7%94%B5%E6%9C%BA%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/tags/%E7%94%B5%E6%B0%94%E5%B7%A5%E7%A8%8B/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/tags/%E8%B0%83%E9%80%9F%E6%8E%A7%E5%88%B6/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/tags/%E5%B7%A5%E4%B8%9A%E7%94%B5%E6%9C%BA/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/tags/%E5%B7%A5%E4%B8%9A%E5%BA%94%E7%94%A8/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/tags/%E8%83%BD%E6%95%88%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/tags/%E8%83%BD%E6%95%88%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/tags/%E4%B8%89%E7%9B%B8%E5%8F%98%E9%A2%91%E5%99%A8/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/blog/three-phase-variable-frequency-drives-the-intelligent-speed-control-pioneer-for-industrial-power/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.senkuogroup.com/blog/three-phase-variable-frequency-drives-the-intelligent-speed-control-pioneer-for-industrial-power/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.senkuogroup.com/zh-cn/blog/three-phase-variable-frequency-drives-the-intelligent-speed-control-pioneer-for-industrial-power/"
+                />
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/tags/%E9%80%9A%E7%94%A8%E5%8F%98%E9%A2%91%E5%99%A8/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/blog/universal-variable-frequency-drives-intelligent-speed-control-solutions-for-multiple-scenarios/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.senkuogroup.com/blog/universal-variable-frequency-drives-intelligent-speed-control-solutions-for-multiple-scenarios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.senkuogroup.com/zh-cn/blog/universal-variable-frequency-drives-intelligent-speed-control-solutions-for-multiple-scenarios/"
+                />
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8E%A7%E5%88%B6/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/tags/%E5%8F%98%E9%A2%91%E5%99%A8/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.senkuogroup.com/zh-cn/blog/can-variable-frequency-drives-improve-motor-energy-efficiency/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
@@ -681,23 +737,7 @@
                 href="https://www.senkuogroup.com/zh-cn/blog/can-variable-frequency-drives-improve-motor-energy-efficiency/"
                 />
   </url><url>
-    <loc>https://www.senkuogroup.com/zh-cn/blog/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.senkuogroup.com/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.senkuogroup.com/zh-cn/blog/"
-                />
-  </url><url>
     <loc>https://www.senkuogroup.com/zh-cn/tags/%E7%94%B5%E6%9C%BA%E8%83%BD%E6%95%88/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.senkuogroup.com/zh-cn/tags/%E8%B0%83%E9%80%9F%E6%8E%A7%E5%88%B6/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.senkuogroup.com/zh-cn/tags/%E8%8A%82%E8%83%BD/</loc>
@@ -757,12 +797,6 @@
                 href="https://www.senkuogroup.com/zh-cn/blog/faq/"
                 />
   </url><url>
-    <loc>https://www.senkuogroup.com/zh-cn/tags/%E7%9F%A2%E9%87%8F%E5%8F%98%E9%A2%91%E5%99%A8/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.senkuogroup.com/zh-cn/tags/%E9%80%9A%E7%94%A8%E5%8F%98%E9%A2%91%E5%99%A8/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.senkuogroup.com/zh-cn/tags/%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -776,6 +810,18 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/categories/"
+                />
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/products/vfd/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.senkuogroup.com/products/vfd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.senkuogroup.com/zh-cn/products/vfd/"
                 />
   </url><url>
     <loc>https://www.senkuogroup.com/zh-cn/docs/</loc>
@@ -801,6 +847,8 @@
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/about/"
                 />
+  </url><url>
+    <loc>https://www.senkuogroup.com/zh-cn/tags/%E7%9F%A2%E9%87%8F%E5%8F%98%E9%A2%91%E5%99%A8/</loc>
   </url><url>
     <loc>https://www.senkuogroup.com/zh-cn/products/</loc>
     <xhtml:link

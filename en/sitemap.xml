@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.senkuogroup.com/blog/high-performance-general-purpose-vector-frequency-converter/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.senkuogroup.com/zh-cn/blog/high-performance-general-purpose-vector-frequency-converter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.senkuogroup.com/blog/high-performance-general-purpose-vector-frequency-converter/"
-                />
-  </url><url>
     <loc>https://www.senkuogroup.com/docs/product-information/technical-specifications-table/</loc>
     <xhtml:link
                 rel="alternate"
@@ -639,11 +626,11 @@
                 href="https://www.senkuogroup.com/docs/functional-parameter-table/parameter-monitoring/"
                 />
   </url><url>
-    <loc>https://www.senkuogroup.com/tags/automation/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <loc>https://www.senkuogroup.com/tags/automation-control/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.senkuogroup.com/blog/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -654,6 +641,88 @@
                 hreflang="en"
                 href="https://www.senkuogroup.com/blog/"
                 />
+  </url><url>
+    <loc>https://www.senkuogroup.com/tags/electrical-engineering/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/tags/energy-efficiency-management/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/tags/energy-efficiency-optimization/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/tags/industrial-applications/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/tags/industrial-motors/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/tags/motor-management/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/tags/speed-control/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/tags/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.senkuogroup.com/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.senkuogroup.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.senkuogroup.com/tags/three-phase-variable-frequency-drive/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/blog/three-phase-variable-frequency-drives-the-intelligent-speed-control-pioneer-for-industrial-power/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.senkuogroup.com/zh-cn/blog/three-phase-variable-frequency-drives-the-intelligent-speed-control-pioneer-for-industrial-power/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.senkuogroup.com/blog/three-phase-variable-frequency-drives-the-intelligent-speed-control-pioneer-for-industrial-power/"
+                />
+  </url><url>
+    <loc>https://www.senkuogroup.com/tags/universal-variable-frequency-drive/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.senkuogroup.com/blog/universal-variable-frequency-drives-intelligent-speed-control-solutions-for-multiple-scenarios/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.senkuogroup.com/zh-cn/blog/universal-variable-frequency-drives-intelligent-speed-control-solutions-for-multiple-scenarios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.senkuogroup.com/blog/universal-variable-frequency-drives-intelligent-speed-control-solutions-for-multiple-scenarios/"
+                />
+  </url><url>
+    <loc>https://www.senkuogroup.com/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.senkuogroup.com/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.senkuogroup.com/"
+                />
+  </url><url>
+    <loc>https://www.senkuogroup.com/tags/automation/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.senkuogroup.com/blog/can-variable-frequency-drives-improve-motor-energy-efficiency/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
@@ -674,37 +743,8 @@
     <loc>https://www.senkuogroup.com/tags/motor-energy-efficiency/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.senkuogroup.com/tags/speed-control/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.senkuogroup.com/tags/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.senkuogroup.com/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.senkuogroup.com/tags/"
-                />
-  </url><url>
     <loc>https://www.senkuogroup.com/tags/variable-frequency-drive/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.senkuogroup.com/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://www.senkuogroup.com/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.senkuogroup.com/"
-                />
   </url><url>
     <loc>https://www.senkuogroup.com/tags/application-scenarios/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
@@ -760,9 +800,6 @@
     <loc>https://www.senkuogroup.com/tags/frequency-converter/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.senkuogroup.com/tags/inverter/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.senkuogroup.com/tags/vfd/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -790,6 +827,8 @@
                 href="https://www.senkuogroup.com/categories/"
                 />
   </url><url>
+    <loc>https://www.senkuogroup.com/tags/inverter/</loc>
+  </url><url>
     <loc>https://www.senkuogroup.com/products/</loc>
     <xhtml:link
                 rel="alternate"
@@ -800,6 +839,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/products/"
+                />
+  </url><url>
+    <loc>https://www.senkuogroup.com/products/vfd/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://www.senkuogroup.com/zh-cn/products/vfd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.senkuogroup.com/products/vfd/"
                 />
   </url><url>
     <loc>https://www.senkuogroup.com/docs/</loc>
