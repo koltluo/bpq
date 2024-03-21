@@ -1,0 +1,1004 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Поставщик векторных частотных инверторов высокой производительности. – Глава 3 Установка</title>
+    <link>https://www.senkuogroup.com/ru/docs/mounting/</link>
+    <description>Recent content in Глава 3 Установка on Поставщик векторных частотных инверторов высокой производительности.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    
+	  <atom:link href="https://www.senkuogroup.com/ru/docs/mounting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>3.1 Диаграмма габаритов всей структуры машины</title>
+      <link>https://www.senkuogroup.com/ru/docs/mounting/overall-equipment-dimensional-diagram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/mounting/overall-equipment-dimensional-diagram/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jgt.jpg&#34; title=&#34;Схема контура и габариты установки векторного частотного преобразователя серии SKF8000&#34; alt=&#34;Схема контура и габариты установки векторного частотного преобразователя серии SKF8000&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Схема контура и габариты установки векторного частотного преобразователя серии SKF8000&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Модель&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Высота (мм)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Ширина (мм)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Глубина (мм)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Высота 1 (мм)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Ширина 1 (мм)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Диаметр отверстия (мм)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;R75GB-S2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;197.2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;89.6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;139&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;187&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;74&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1R5GB-S2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;197.2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;89.6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;139&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;187&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;74&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2R2GB-S2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;197.2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;89.6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;139&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;187&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;74&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;R75GB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;197.2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;89.6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;139&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;187&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;74&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1R5GB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;197.2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;89.6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;139&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;187&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;74&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2R2GB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;197.2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;89.6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;139&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;187&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;74&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;004GB/5R5PB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;202&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;102&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;162&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;190.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;90&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5R5GB/7R5PB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;202&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;102&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;162&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;190.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;90&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7R5GB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;242.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;125&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;170&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;228&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;108.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;011GB/015PB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;242.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;125&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;170&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;228&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;108.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;015GB/18R5PB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;297&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;165&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;206&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;278&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;147&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;018R5GB/022PB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;297&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;165&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;206&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;278&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;147&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;022GB/030PB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;360&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;210&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;190&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;345&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;110&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;030G/037P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;435&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;230&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;230&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;418&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;037G/045P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;435&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;230&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;230&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;418&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;045G/055P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;510&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;260&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;255&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;493&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;055G/075P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;580&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;270&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;300&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;564&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;075G/093P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;580&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;270&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;300&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;564&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;093G/110P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;620&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;320&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;300&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;260&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;110G/132P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;620&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;320&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;300&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;260&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;132G/160P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;380&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;315&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;775&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;260&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160G/185P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;380&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;315&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;775&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;260&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185G/200P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;345&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;755&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200G/220P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;900&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;450&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;350&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;875&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;350&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;220G/250P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;900&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;450&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;350&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;875&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;350&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250G/280P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;900&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;450&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;350&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;875&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;350&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;280G/315P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;950&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;350&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;925&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;360&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;315G/355P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1050&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;650&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;360&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1029&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;355G/400P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1050&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;650&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;360&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1029&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400G/450P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1300&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;650&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;380&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1265&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;450G/500P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1300&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;650&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;380&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1265&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;500G/560P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1300&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;650&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;380&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1265&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;560G/630P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1450&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;550&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;630G/720P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1450&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;550&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;720G/800P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1450&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;550&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>3.2 Основные цепи терминалов и их функции</title>
+      <link>https://www.senkuogroup.com/ru/docs/mounting/main-circuit-terminals-and-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/mounting/main-circuit-terminals-and-functions/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/zhl1.jpg&#34; title=&#34;Схема терминалов основной цепи для Частотных преобразователей серии SKF8000 мощностью от 0.75 кВт до 22 кВт&#34; alt=&#34;Схема терминалов основной цепи для Частотных преобразователей мощностью от 0.75 кВт до 37 кВт&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Схема терминалов основной цепи для Частотных преобразователей серии SKF8000 мощностью от 0.75 кВт до 22 кВт&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/zhl2.jpg&#34; title=&#34;Схема терминалов основной цепи для Частотных преобразователей серии SKF8000 мощностью от 30 кВт до 720 кВт&#34; alt=&#34;Схема терминалов основной цепи для Частотных преобразователей мощностью от 45 кВт до 720 кВт&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Схема терминалов основной цепи для Частотных преобразователей серии SKF8000 мощностью от 30 кВт до 720 кВт&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Метка терминала&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Наименование&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Описание&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;R, S, T&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Терминалы ввода трехфазного питания&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Терминалы подключения трехфазного переменного питания&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;(+), (-)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Положительный и отрицательный терминалы постоянного тока&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Общие терминалы постоянного тока (терминалы подключения внешних тормозных устройств для 30 кВт и выше)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;(+), PB&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Терминалы подключения тормозных резисторов&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Терминалы подключения тормозных резисторов для 22 кВт и выше&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;P, (+)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Терминалы подключения внешних реакторов&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Терминалы подключения внешних реакторов постоянного тока&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;⏚&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Терминал заземления&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Подключение к земле&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>3.3 Терминал и функция управляющей цепи</title>
+      <link>https://www.senkuogroup.com/ru/docs/mounting/control-circuit-terminals-and-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/mounting/control-circuit-terminals-and-functions/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Ниже приведена схема терминалов для управляющей цепи общего назначения серии частотных преобразователей SKF8000.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.senkuogroup.com/images/kzhl.jpg&#34; alt=&#34;Схема терминалов управляющей цепи преобразователя&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>3.4 Терминал и функция управления</title>
+      <link>https://www.senkuogroup.com/ru/docs/mounting/control-terminals-and-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/mounting/control-terminals-and-functions/</guid>
+      <description>
+        
+        
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Категория&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Символ терминала&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Название терминала&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Описание функции&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Питание&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;+10V-GND&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;+10V Питание&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Предоставляет +10V питание внешне, максимальный выходной ток: 20мА, обычно используется в качестве источника питания для внешних потенциометров&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Питание&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;+24V-COM&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;+24V Питание&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Предоставляет +24V питание внешне, максимальный выходной ток: 150мА, обычно используется в качестве источника питания для цифровых входно-выходных терминалов и внешнего питания датчиков&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Питание&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;OP&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний вход питания&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Подключается к +24V или COM через соединительный элемент на плате управления (заводское подключение к +24V) &lt;/br&gt; При подаче сигналов в DI1~DI6 с внешних источников, OP должен быть подключен к внешнему источнику питания, а соединительный элемент между OP и 24V должен быть удален&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Аналоговый вход&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;AI1-GND&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Аналоговый вход 1&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Диапазон входа: DC 0V~10V/0mA, выбирается параметром P4-37 для входа по напряжению или по току. &lt;/br&gt;2. Входное сопротивление: 22кΩ для входа по напряжению, 500Ω для входа по току&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Аналоговый вход&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;AI2-GND&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Аналоговый вход 2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Диапазон входа: DC 0V~10V/0mA, выбирается параметром P4-37 для входа по напряжению или по току. &lt;/br&gt;2. Входное сопротивление: 22кΩ для входа по напряжению, 500Ω для входа по току&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Цифровой вход&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;X1, X2, X3, X4, X5, X6, X7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Цифровой вход 1, 2, 3, 4, 5, 6, 7&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Оптопарная изоляция &lt;/br&gt;2. Входное сопротивление: 4кΩ &lt;/br&gt;Диапазон входного напряжения: 9V~30V&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Аналоговый выход&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;AO1-GND&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Аналоговый выход 1&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;AO1, AO2 выбираются для вывода напряжения или тока перемычками J3 и J2 на плате управления &lt;/br&gt;Диапазон выходного напряжения: 0V~10V &lt;/br&gt;Диапазон выходного тока: 0mA~20mA &lt;/br&gt;Заводская установка - вывод напряжения&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Аналоговый выход&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;AO2-GND (совместно с Y1 для моделей до 18.5кВт, выбирается перемычками)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Аналоговый выход 2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;AO1, AO2 выбираются для вывода напряжения или тока перемычками J3 и J2 на плате управления &lt;/br&gt;Диапазон выходного напряжения: 0V~10V &lt;/br&gt;Диапазон выходного тока: 0mA~20mA &lt;/br&gt;Заводская установка - вывод напряжения&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Цифровой выход&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;HD0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Выход высокоскоростного импульса с открытым коллектором&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Оптопарная изоляция, биполярный открытый коллекторный выход. &lt;/br&gt;2. Диапазон выходного напряжения: 0V~24V &lt;/br&gt;Диапазон выходного тока: 0mA~50mA &lt;/br&gt;(Примечание: Для моделей мощностью до 18.5кВт, функция Y1 может быть переключена на аналоговый выход перемычками)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Цифровой выход&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Y1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Цифровой выход 1 &lt;/br&gt; Аналоговый выход 2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Оптопарная изоляция, биполярный открытый коллекторный выход. &lt;/br&gt;2. Диапазон выходного напряжения: 0V~24V &lt;/br&gt;Диапазон выходного тока: 0mA~50mA &lt;/br&gt;(Примечание: Для моделей мощностью до 18.5кВт, функция Y1 может быть переключена на аналоговый выход перемычками)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Реле&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;K1A-K1B, K2A-K2B&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Нормально закрытые терминалы&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Емкость контактного привода: &lt;/br&gt;AC 250V, 3A; DC 30V, 1A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Реле&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;K1A-K1C, K2A-K2C&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Нормально открытые терминалы&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Емкость контактного привода: &lt;/br&gt;AC 250V, 3A; DC 30V, 1A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;RS485 Коммуникация&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;RS+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Положительный терминал RS485 Коммуникации | Положительный дифференциальный сигнал RS485 |
+| RS485 Коммуникация | RS- | Отрицательный терминал RS485 Коммуникации | Отрицательный дифференциальный сигнал RS485 |&lt;/p&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>3.5 Установка оборудования</title>
+      <link>https://www.senkuogroup.com/ru/docs/mounting/mechanical-installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/mounting/mechanical-installation/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;3.5.1 Окружающая среда установки:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;351-окружающая-среда-установки&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#351-%d0%be%d0%ba%d1%80%d1%83%d0%b6%d0%b0%d1%8e%d1%89%d0%b0%d1%8f-%d1%81%d1%80%d0%b5%d0%b4%d0%b0-%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Температура окружающей среды: Температура окружающей среды сильно влияет на срок службы частотного преобразователя. Рабочая температура окружающей среды частотного преобразователя не должна превышать допустимый температурный диапазон (-10°C до 50°C).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Установите частотный преобразователь на поверхности горючего объекта с достаточным пространством вокруг него для отвода тепла. Частотный преобразователь вырабатывает большое количество тепла во время работы. Используйте винты для вертикальной установки на монтажном кронштейне.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Установите его в месте минимальных вибраций. Вибрация не должна превышать 0.6G. Особое внимание уделяйте дистанции от оборудования, такого как прессы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Избегайте установки в местах, подверженных прямому солнечному свету, влаге или каплям воды.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Избегайте установки в местах, где в воздухе присутствуют коррозионные, легковоспламеняющиеся или взрывоопасные газы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Избегайте установки в местах с пятнами масла, избыточной пылью или металлической пылью.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/azt.jpg&#34; title=&#34;Схема установки частотного преобразователя&#34; alt=&#34;Схема установки частотного преобразователя&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Схема установки частотного преобразователя&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Установка одиночного блока: При мощности частотного преобразователя не превышающей 22 кВт, учитывание размера A опционально. При превышении 22 кВт, A должен быть больше 50 мм.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Вертикальная установка: При установке частотного преобразователя вертикально, установите изображенный теплоизоляционный барьер согласно схеме.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Мощность частотного преобразователя&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Размер установки A&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Размер установки B&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≤15 кВт&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Опционально&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥100 мм&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18.5 кВт – 30 кВт&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥50 мм&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥200 мм&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥37 кВт&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥50 мм&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥300 мм&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;3.5.2 Механические особенности установки&lt;span class=&#34;absolute -mt-20&#34; id=&#34;352-механические-особенности-установки&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#352-%d0%bc%d0%b5%d1%85%d0%b0%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5-%d0%be%d1%81%d0%be%d0%b1%d0%b5%d0%bd%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Механическая установка в первую очередь касается отвода тепла. Пожалуйста, учтите следующие моменты:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Установите частотный преобразователь вертикально для обеспечения вывода тепла вверх. Однако не устанавливайте его вверх ногами. Если в шкафу есть несколько частотных преобразователей, лучше установить их бок о бок. В случае необходимости вертикальной установки, обратитесь к схеме для установки теплоизоляционного барьера.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Следуйте схеме установки, чтобы обеспечить достаточное пространство для отвода тепла от частотного преобразователя. Однако при размещении пространства учитывайте отвод тепла других компонентов внутри шкафа.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Кронштейн установки должен быть изготовлен из огнестойкого материала.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Для приложений с металлической пылью рекомендуется установить частотный преобразователь вне шкафа теплоотвода. В этом случае полностью герметичное пространство шкафа должно быть как можно больше.&amp;quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>3.6 Руководство по выбору периферийных электрических компонентов для частотных преобразователей</title>
+      <link>https://www.senkuogroup.com/ru/docs/mounting/peripheral-electrical-component-selection-guide-for-variable-frequency-drives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/mounting/peripheral-electrical-component-selection-guide-for-variable-frequency-drives/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Таблица выбора периферийных электрических компонентов преобразователя&lt;span class=&#34;absolute -mt-20&#34; id=&#34;таблица-выбора-периферийных-электрических-компонентов-преобразователя&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%82%d0%b0%d0%b1%d0%bb%d0%b8%d1%86%d0%b0-%d0%b2%d1%8b%d0%b1%d0%be%d1%80%d0%b0-%d0%bf%d0%b5%d1%80%d0%b8%d1%84%d0%b5%d1%80%d0%b8%d0%b9%d0%bd%d1%8b%d1%85-%d1%8d%d0%bb%d0%b5%d0%ba%d1%82%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82%d0%be%d0%b2-%d0%bf%d1%80%d0%b5%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Мощность преобразователя&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Выключатель автоматического выключения (MCCB), A&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Рекомендуемый контактор, A&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Рекомендуемый сечение провода основной цепи на входе, мм²&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Рекомендуемый сечение провода основной цепи на выходе, мм²&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Рекомендуемый сечение провода управляющей цепи, мм²&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.4KWT2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.7KWT2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5KWT2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.2KWT2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;32&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.7KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.2KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3.7KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.5KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;32&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.5KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;32&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;63&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;63&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18.5KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;63&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;63&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;125&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;37KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;45KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;125&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;55KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;125&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;35&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;75KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;50&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;35&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;90KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;70&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;35&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;110KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;350&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;350&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;120&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;120&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;132KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;220KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;280KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;315KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;355KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1000&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1000&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Примечание: Эта таблица выбора предоставляет ориентировочные данные. Пользователи могут выбирать электрические компоненты разных размеров в соответствии с фактическими условиями, но они не должны быть меньше рекомендованных значений в таблице.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

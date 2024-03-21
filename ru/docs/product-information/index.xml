@@ -1,0 +1,1136 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Поставщик векторных частотных инверторов высокой производительности. – Глава 2 Информация о продукте</title>
+    <link>https://www.senkuogroup.com/ru/docs/product-information/</link>
+    <description>Recent content in Глава 2 Информация о продукте on Поставщик векторных частотных инверторов высокой производительности.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    
+	  <atom:link href="https://www.senkuogroup.com/ru/docs/product-information/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>2.1 Техническая спецификация</title>
+      <link>https://www.senkuogroup.com/ru/docs/product-information/technical-specifications-table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/product-information/technical-specifications-table/</guid>
+      <description>
+        
+        
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Проект&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Спецификация&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Характеристики управления&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Режим управления&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Бездатчиковый векторный режим (SVC)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Режим V/F&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Начальный момент&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.5 Гц/150%&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.5 Гц/100%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Диапазон скорости&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1:100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1:50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Стабильность скорости&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;±0.5%&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;±1%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Несущая частота&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.5 кГц~16 кГц; Автоматическая настройка несущей частоты в соответствии с характеристиками нагрузки&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Перегрузочная способность&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Тип G: 150% номинального тока в течение 60 секунд, 220% номинального тока в течение 1 секунды &lt;/br&gt; Тип P: 120% номинального тока в течение 60 секунд, 150% номинального тока в течение 1 секунды&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Усиление момента&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.0% автоматическое усиление момента; Ручное усиление момента 0.1%~30%&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ввод/Вывод&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Диапазон входного напряжения&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;220 В/380 В; Диапазон флуктуации: ±15%&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Диапазон входной частоты&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;50/60 Гц; Диапазон флуктуации: ±5%&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Диапазон выходного напряжения&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0~Входное напряжение, ошибка &amp;lt;5%&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Диапазон выходной частоты&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;SVC: 0~320 Гц; V/F: 0-3200 Гц&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Управление операцией&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Канал команды операции&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3 канала: установка операционной панели, установка управляющего терминала, установка последовательного порта связи. Может быть переключен несколькими способами.&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Источник частоты&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Цифровая установка, установка потенциометра панели, установка аналогового напряжения, установка аналогового тока, установка последовательной связи и т.д. Может быть переключен несколькими способами.&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Вспомогательный источник частоты&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Несколько вспомогательных источников частоты. Может выполнять синтез и тонкую настройку частоты.&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Входные терминалы&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7 цифровых входных терминалов &lt;/br&gt; 2 аналоговых входных терминала&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Выходные терминалы&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2 выходных терминала с открытым коллектором &lt;/br&gt; 2 выходных терминала реле &lt;/br&gt; 2 аналоговых выходных терминала&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Основные функции&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Функция торможения постоянным током (DC Braking)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Время торможения: 0.0 сек~100.0 сек, Ток действия торможения: 0.0%~100.0%&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Вольт-частотная характеристика (V/F Curve)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3 типа: Линейная, Многоточечная, Квадратная&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Кривая ускорения/замедления&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Режим линейного или S-образного ускорение/замедление; Четыре набора времени ускорения/замедления; Диапазон времени ускорения/замедления: 0.0~6500.0 сек&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Простая ПЛК, Мульти-скорость&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Достигает до 16-скоростной работы через встроенное ПЛК или управляющий терминал&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Встроенный PID&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Удобно для реализации системы управления с обратной связью для процессного контроля&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Функция АВР&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Автоматическое поддержание постоянного выходного напряжения при изменении сетевого напряжения&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Защита от перенапряжения, перегрузки и перегрузки скорости&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Автоматическое ограничение тока и напряжения во время работы для предотвращения частых срабатываний перегрузки и перенапряжения&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Функция быстрого ограничения тока&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Минимизирует перегрузочные ошибки для повышения стабильности системы&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ограничение и управление моментом&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&amp;ldquo;Экскаватор&amp;rdquo; характеристика, автоматическое ограничение момента во время работы для предотвращения частых срабатываний перегрузки&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Самопроверка безопасности внешнего устройства при включении питания&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Может проводить проверку на безопасность внешних устройств, таких как заземление и короткое замыкание при включении питания&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Функция управления временем&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Диапазон установки времени 0 ч~65535 ч&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Функции защиты&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Защита от потери фазы выхода, защита от перегрузки, защита от перенапряжения, защита от недонапряжения, защита от перегрева, защита от перегрузки, детектирование неисправности реле при включении питания и т.д.&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Дисплей и клавиатурное управление&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;LED дисплей&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5-значный LED дисплей&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Функция блокировки параметров&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Установленные параметры доступны только для чтения для предотвращения неправильных операций&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Клавиша MF.K&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Программируемая клавиша: Переключение канала команды/Операция вперед/назад/Выбор функции инкремента/Переключение режима меню&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Условия эксплуатации&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Место использования&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;В помещении, не подвергается прямому солнечному свету, отсутствие пыли, коррозионных газов, воспламеняющихся газов, тумана масла, водяного пара, капель воды или соли&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Высота&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;До 1000 м; На высотах более 1000 м использовать с разгрузкой, уменьшая на 1% на каждый 100 м увеличения&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Температура окружающей среды&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-10°C~40°C, использование с уменьшением при превышении 40°C, уменьшение на 1% на каждое увеличение температуры окружающей среды на 1°C, максимальная температура окружающей среды для использования - 50°C&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Влажность&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≤95% относительной влажности, избегать образования инея&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Вибрация&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ускорение вибрации менее 0.6g&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Температура хранения&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;-25°C~+60°C&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>2.2 Табличка с названием продукта</title>
+      <link>https://www.senkuogroup.com/ru/docs/product-information/product-aluminum-plate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/product-information/product-aluminum-plate/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/cpmp.jpg&#34; title=&#34;Табличка с названием продукта векторного инвертора&#34; alt=&#34;Табличка с названием продукта&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Табличка с названием продукта векторного инвертора&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>2.3 Описание модели инвертора</title>
+      <link>https://www.senkuogroup.com/ru/docs/product-information/model-description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/product-information/model-description/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/xh.jpg&#34; title=&#34;Описание модели векторного инвертора&#34; alt=&#34;Описание модели&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Описание модели векторного инвертора&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Поле&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Идентификатор&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Описание&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Подробности&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Серия продукта&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;①&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Серия продукта&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Общая серия векторных инверторов - 8000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Номинальная мощность 1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;②&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Диапазон мощности для машин типа G&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5R5-5.5 кВт, где R обозначает десятичную точку&lt;br&gt; G - Постоянный крутящий момент&lt;br&gt; B - Встроенный тормозной блок&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Номинальная мощность 2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;③&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Диапазон мощности для машин типа P&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7R5-7.5 кВт, где R обозначает десятичную точку&lt;br&gt; P - Переменный крутящий момент&lt;br&gt; B - Встроенный тормозной блок&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Входная мощность&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;④&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Идентификация фазы питания&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;S: Однофазный; T: Трехфазный&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Уровень напряжения&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;⑤&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Уровень напряжения&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2: 220VAC; 4: 380VAC&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>2.4 Руководство по выбору переменного частотного преобразователя</title>
+      <link>https://www.senkuogroup.com/ru/docs/product-information/product-selection-specification-table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/product-information/product-selection-specification-table/</guid>
+      <description>
+        
+        
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Модель преобразователя G/P&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Номинальная мощность (кВт)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Мощность (КВА)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Входной ток (А)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Выходной ток (А)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Совместимый двигатель G/P (кВт)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Совместимый двигатель G/P (л.с.)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;R75GB-S2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.75&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8.2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.75&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1R5GB-S2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2R2GB-S2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;23&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9.6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;R75GB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.75&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3.4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.75&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1R5GB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3.8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2R2GB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;004GB/5R5PB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4/5.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.9/8.9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10.5/14.6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9/13&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4/5.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.5/7.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5R5GB/7R5PB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.5/7.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8.9/11&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14.6/20.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;13/17&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.5/7.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.5/10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7R5GB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;17&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;011GB/015PB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11/15&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;17/21&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;26/35&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25/32&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11/15&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15/20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;015GB/18R5PB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15/18.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;21/24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;35/38.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;32/37&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15/18.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20/25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;018R5GB/022PB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18.5/22&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;24/30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;38.5/46&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;37/45&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18.5/22&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25/30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;022GB/030PB-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22/30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30/40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;46.5/62&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;45/60&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22/30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30/40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;030G/037P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30/37&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40/57&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;62/76&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;60/75&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30/37&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40/50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;037G/045P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;37/45&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;57/69&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;76/92&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;75/91&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;37/45&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;50/60&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;045G/055P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;45/55&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;69/85&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;92/113&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;91/110&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;45/55&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;60/70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;055G/075P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;55/75&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;85/114&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;113/157&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;112/150&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;55/75&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;70/100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;075G/093P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;75/93&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;114/134&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;157/180&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150/170&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;75/93&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100/125&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;093G/110P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;93/110&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;134/160&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;180/214&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;170/210&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;93/110&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;125/150&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;110G/132P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;110/132&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160/192&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;214/256&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;210/253&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;110/132&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150/180&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;132G/160P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;132/160&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;192/231&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;256/307&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;253/304&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;132/160&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;180/220&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160G/185P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160/185&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;231/245&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;307/345&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;304/340&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160/185&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;220/250&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185G/200P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185/200&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;245/260&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;345/385&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;340/377&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185/200&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250/275&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200G/220P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200/220&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;260/280&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;385/430&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;377/426&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200/220&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;275/300&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;220G/250P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;220/250&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;280/355&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;430/468&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;426/465&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;220/250&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;300/340&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250G/280P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250/280&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;355/396&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;468/525&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;465/520&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250/280&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;340/380&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;280G/315P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;280/315&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;396/445&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;525/590&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;520/585&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;280/315&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;380/430&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;315G/355P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;315/355&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;445/500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;590/665&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;585/650&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;315/355&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;430/480&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;355G/400P-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;355/400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;500/565&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;665/785&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;650/725&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;355/400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;480/545&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400G-T4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;565&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;786&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;725&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;545&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>2.5 Диаграмма размеров выдвижной полки для клавиатуры</title>
+      <link>https://www.senkuogroup.com/ru/docs/product-information/keyboard-tray-dimensional-diagram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/product-information/keyboard-tray-dimensional-diagram/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;https://www.senkuogroup.com/images/jp.jpg&#34; alt=&#34;Физическое изображение клавиатуры&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Структура инвертора&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Размер отверстия лотка серии C&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Размер отверстия лотка серии H&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Изображение размера отверстия&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://www.senkuogroup.com/images/cjp.jpg&#34; alt=&#34;Размер отверстия лотка серии C&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;https://www.senkuogroup.com/images/hjp.jpg&#34; alt=&#34;Размер отверстия лотка серии H&#34; loading=&#34;lazy&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>2.6 Ежедневное обслуживание и уход за преобразователями частоты</title>
+      <link>https://www.senkuogroup.com/ru/docs/product-information/the-daily-maintenance-and-service-of-variable-frequency-drives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/product-information/the-daily-maintenance-and-service-of-variable-frequency-drives/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;2.6.1 Регулярное обслуживание&lt;span class=&#34;absolute -mt-20&#34; id=&#34;261-регулярное-обслуживание&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#261-%d1%80%d0%b5%d0%b3%d1%83%d0%bb%d1%8f%d1%80%d0%bd%d0%be%d0%b5-%d0%be%d0%b1%d1%81%d0%bb%d1%83%d0%b6%d0%b8%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Из-за воздействия таких факторов окружающей среды, как температура, влажность, пыль и вибрация, внутренние компоненты преобразователя частоты могут стареть, что может привести к возникновению неисправностей или сокращению срока службы преобразователя. Поэтому необходимо регулярное и плановое обслуживание и уход за преобразователем частоты.&lt;/p&gt;
+&lt;h4&gt;Ежедневные проверки:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ежедневные-проверки&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b5%d0%b6%d0%b5%d0%b4%d0%bd%d0%b5%d0%b2%d0%bd%d1%8b%d0%b5-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d1%80%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;Любые изменения звука двигателя во время работы.&lt;/li&gt;
+&lt;li&gt;Любая вибрация во время работы двигателя.&lt;/li&gt;
+&lt;li&gt;Любые изменения в условиях установки преобразователя частоты.&lt;/li&gt;
+&lt;li&gt;Нормальная работа вентилятора охлаждения преобразователя частоты.&lt;/li&gt;
+&lt;li&gt;Признаки перегрева преобразователя частоты.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;Ежедневная чистка:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ежедневная-чистка&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b5%d0%b6%d0%b5%d0%b4%d0%bd%d0%b5%d0%b2%d0%bd%d0%b0%d1%8f-%d1%87%d0%b8%d1%81%d1%82%d0%ba%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;Преобразователь частоты должен всегда быть чистым.&lt;/li&gt;
+&lt;li&gt;Эффективно удалите пыль с поверхности преобразователя частоты, чтобы предотвратить ее проникновение внутрь, особенно металлическую пыль.&lt;/li&gt;
+&lt;li&gt;Очистите вентилятор охлаждения преобразователя частоты от масляных загрязнений.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;2.6.2 Периодические проверки&lt;span class=&#34;absolute -mt-20&#34; id=&#34;262-периодические-проверки&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#262-%d0%bf%d0%b5%d1%80%d0%b8%d0%be%d0%b4%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d1%80%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Регулярная проверка областей, которые трудно осмотреть во время работы.&lt;/p&gt;
+&lt;h4&gt;Периодические проверки:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;периодические-проверки&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d0%b5%d1%80%d0%b8%d0%be%d0%b4%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d1%80%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;Проверка воздуховодов и их регулярная очистка.&lt;/li&gt;
+&lt;li&gt;Проверка наличия ослабленных винтов.&lt;/li&gt;
+&lt;li&gt;Проверка наличия коррозии на преобразователе частоты.&lt;/li&gt;
+&lt;li&gt;Проверка наличия следов дуги на клеммных соединениях.&lt;/li&gt;
+&lt;li&gt;Испытание изоляционного сопротивления основной цепи.
+Примечание: При измерении изоляционного сопротивления с помощью мегаомметра (используйте мегаомметр постоянного тока 500 В), отключите линии основной цепи от преобразователя частоты. Не испытывайте изоляцию управляющей цепи с помощью изоляционного мегаомметра. Высоковольтное испытание не требуется (уже выполнено на заводе).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;2.6.3 Замена износимых частей преобразователя частоты&lt;span class=&#34;absolute -mt-20&#34; id=&#34;263-замена-износимых-частей-преобразователя-частоты&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#263-%d0%b7%d0%b0%d0%bc%d0%b5%d0%bd%d0%b0-%d0%b8%d0%b7%d0%bd%d0%be%d1%81%d0%b8%d0%bc%d1%8b%d1%85-%d1%87%d0%b0%d1%81%d1%82%d0%b5%d0%b9-%d0%bf%d1%80%d0%b5%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8f-%d1%87%d0%b0%d1%81%d1%82%d0%be%d1%82%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;К износимым частям преобразователя частоты относятся вентиляторы охлаждения и электролитические конденсаторы, используемые для фильтрации, чей срок службы тесно связан с условиями эксплуатации и обслуживания. Обычно срок службы составляет:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Название устройства&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Срок службы&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Вентилятор охлаждения&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2~3 года&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Электролитический конденсатор&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4~5 лет&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Пользователи могут определить интервалы замены на основе времени работы.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Вентилятор охлаждения&lt;br&gt;
+Возможные причины повреждения: износ подшипников, старение лопастей.&lt;br&gt;
+Критерии оценки: Проверьте наличие трещин на лопастях вентилятора и прослушайте наличие аномальных звуков вибрации при запуске.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Фильтрующий электролитический конденсатор&lt;br&gt;
+Возможные причины повреждения: низкое качество входного питания, высокие температуры окружающей среды, частые изменения нагрузки, старение электролита.&lt;br&gt;
+Критерии оценки: Проверьте наличие утечки жидкости, выступание безопасного клапана, измерение ёмкости статических конденсаторов, измерение изоляционного сопротивления.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;2.6.4 Хранение преобразователей частоты&lt;span class=&#34;absolute -mt-20&#34; id=&#34;264-хранение-преобразователей-частоты&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#264-%d1%85%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d1%80%d0%b5%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d0%b5%d0%b9-%d1%87%d0%b0%d1%81%d1%82%d0%be%d1%82%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;После приобретения преобразователей частоты необходимо уделить внимание временному и долгосрочному хранению:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Во время хранения лучше упаковывать их в оригинальную упаковку, предоставленную нашей компанией.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Длительное хранение может привести к ухудшению электролитических конденсаторов. Необходимо обеспечить питание преобразователей частоты хотя бы один раз в 2 года, не менее 5 часов. Напряжение питания должно медленно повышаться до номинального значения с использованием стабилизатора напряжения.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>2.7 Руководство по выбору преобразователя частоты</title>
+      <link>https://www.senkuogroup.com/ru/docs/product-information/variable-frequency-drive-selection-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/product-information/variable-frequency-drive-selection-guide/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Преобразователь частоты может обеспечить три режима управления: общий V/F, SVC и VC.&lt;/p&gt;
+&lt;p&gt;При выборе преобразователя необходимо сначала уточнить технические требования к переменному регулированию частоты системы, конкретные сценарии применения преобразователя и характеристики нагрузки. Необходимо учитывать различные факторы, такие как соответствие двигателей, выходное напряжение, номинальный выходной ток и т. д., чтобы выбрать модель, соответствующую требованиям, и определить режим работы.&lt;/p&gt;
+&lt;p&gt;Основной принцип заключается в том, что номинальный ток нагрузки двигателя не должен превышать номинальный ток преобразователя. Обычно выбирается мощность двигателя, указанная в руководстве по эксплуатации преобразователя, и сравниваются номинальные токи двигателя и преобразователя. Перегрузочная способность преобразователя имеет смысл только при пуске и торможении. Кратковременные перегрузки во время работы приведут к изменениям в скорости нагрузки. Если требуется высокая точность скорости, рассмотрите выбор модели с более высокой перегрузочной способностью.&lt;/p&gt;
+&lt;p&gt;Для вентиляторов и насосов: Требуется низкая перегрузочная способность, поскольку момент нагрузки пропорционален квадрату скорости. При работе на низких скоростях нагрузка легкая (исключая корневые вентиляторы). Поскольку этот тип нагрузки не имеет особых требований к точности скорости, выбирайте режим V/F с квадратным моментом.&lt;/p&gt;
+&lt;p&gt;Нагрузка с постоянным моментом: Большинство нагрузок обладают постоянными характеристиками момента, но обычно не имеют высоких требований к точности скорости и динамическим характеристикам. Например, экструдеры, миксеры, конвейеры, тележки для внутризаводского транспорта и механизмы перемещения крана. Для выбора можно выбрать многозонный режим работы V/F.&lt;/p&gt;
+&lt;p&gt;Управляемый объект имеет определенные требования к динамическим и статическим показателям: Такие нагрузки обычно требуют относительно жестких механических характеристик на низких скоростях, чтобы удовлетворить требования динамических и статических показателей системы управления для производственных процессов. Для выбора можно выбрать режим управления SVC.&lt;/p&gt;
+&lt;p&gt;Управляемый объект имеет повышенные требования к динамическим и статическим показателям: Для ситуаций с высокими требованиями к точности скорости и динамической производительности, а также для высокоточного синхронного управления, можно выбрать режим управления VC. Например, лифты, производственные линии по производству бумаги и пленки из пластика.&lt;/p&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>2.8 Руководство по выбору компонентов тормоза переменного частотного преобразователя</title>
+      <link>https://www.senkuogroup.com/ru/docs/product-information/variable-frequency-drive-braking-component-selection-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/product-information/variable-frequency-drive-braking-component-selection-guide/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;2.8.1 Выбор значения сопротивления&lt;span class=&#34;absolute -mt-20&#34; id=&#34;281-выбор-значения-сопротивления&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#281-%d0%b2%d1%8b%d0%b1%d0%be%d1%80-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd%d0%b8%d1%8f-%d1%81%d0%be%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;При торможении регенеративная энергия двигателя почти полностью расходуется на тормозной резистор.&lt;br&gt;
+Согласно формуле: U*U/R=Pb&lt;br&gt;
+● В формуле, U представляет собой тормозное напряжение для стабильного торможения системы&lt;br&gt;
+(Для различных систем это значение различно. Для системы 380VAC обычно принимается как 700V)&lt;br&gt;
+● Pb представляет собой тормозную мощность&lt;/p&gt;
+&lt;h3&gt;2.8.2 Выбор мощности тормозного резистора&lt;span class=&#34;absolute -mt-20&#34; id=&#34;282-выбор-мощности-тормозного-резистора&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#282-%d0%b2%d1%8b%d0%b1%d0%be%d1%80-%d0%bc%d0%be%d1%89%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d1%82%d0%be%d1%80%d0%bc%d0%be%d0%b7%d0%bd%d0%be%d0%b3%d0%be-%d1%80%d0%b5%d0%b7%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Теоретически мощность тормозного резистора должна соответствовать тормозной мощности, но учитывая коэффициент понижения в 70%,&lt;br&gt;
+формула принимает вид: 0.7&lt;em&gt;Pr=Pb&lt;/em&gt;D&lt;br&gt;
+● Pr представляет собой мощность резистора&lt;br&gt;
+● D представляет собой частоту торможения (доля всего рабочего процесса, занимаемая регенеративным процессом)&lt;/p&gt;
+&lt;p&gt;Для различных применений можно рассмотреть следующие частоты торможения:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Лифты: 20%~30%&lt;/li&gt;
+&lt;li&gt;Размотка и намотка: 20%~30%&lt;/li&gt;
+&lt;li&gt;Центрифуги: 50%~60%&lt;/li&gt;
+&lt;li&gt;Иногда тормозимые нагрузки: 5%&lt;/li&gt;
+&lt;li&gt;Общие случаи: 10%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2.8.3 Таблица выбора компонентов торможения инвертора&lt;span class=&#34;absolute -mt-20&#34; id=&#34;283-таблица-выбора-компонентов-торможения-инвертора&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#283-%d1%82%d0%b0%d0%b1%d0%bb%d0%b8%d1%86%d0%b0-%d0%b2%d1%8b%d0%b1%d0%be%d1%80%d0%b0-%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82%d0%be%d0%b2-%d1%82%d0%be%d1%80%d0%bc%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b8%d0%bd%d0%b2%d0%b5%d1%80%d1%82%d0%be%d1%80%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Мощность инвертора&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Рекомендуемая мощность тормозного резистора&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Рекомендуемое значение сопротивления для тормозного резистора&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Тормозной блок&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Примечания&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150W&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥220Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Стандартный встроенный&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Нет специальных инструкций&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.2KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250W&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&amp;gt;200Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Стандартный встроенный&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Нет специальных инструкций&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3.7KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;300W&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥130Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Стандартный встроенный&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Нет специальных инструкций&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.5KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400W&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥90Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Стандартный встроенный&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Нет специальных инструкций&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.5KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;500W&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥65Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Стандартный встроенный&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Нет специальных инструкций&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800W&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥43Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Стандартный встроенный&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Нет специальных инструкций&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1000W&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥32Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Стандартный встроенный&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Нет специальных инструкций&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18.5KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1300W&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥25Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Встроенный (опционально)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Добавьте &amp;ldquo;B&amp;rdquo; к номеру модели инвертора&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1500W&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥22Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Встроенный (опционально)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Добавьте &amp;ldquo;B&amp;rdquo; к номеру модели инвертора&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2500W&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥16Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внутренний (опционально)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Добавьте &amp;ldquo;B&amp;rdquo; к номеру модели инвертора&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;37KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3.7 кВт&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥16.0Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-35-B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;45KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.5 кВт&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥16Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-70-B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;55KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.5 кВт&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥8Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-70-B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;75KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.5 кВт&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥8Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-70-B×2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;90KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.5 кВт×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥8Ω×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-70-B×2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;110KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.5 кВт×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥8Ω×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-70-B×2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;132KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6.5 кВт×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥8Ω×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-200-B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16 кВт&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥2.5Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-200-B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20 кВт&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥2.5Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-200-B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;220KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22 кВт&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥2.5Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-200-B×2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12.5 кВт×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥2.5Ω×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-200-B×2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;280KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14 кВт×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥2.5Ω×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-200-B×2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;315KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16 кВт×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥2.5Ω×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-200-B×2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;355KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;17 кВт×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥2.5Ω×2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-200-B×2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14 кВт×3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥2.5Ω×3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-200-B×3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;450KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15 кВт×3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥2.5Ω×3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Внешний&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VFDBU-200-B×3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;(Примечание: &amp;ldquo;×2&amp;rdquo; означает использование двух тормозных блоков параллельно, каждый с собственным тормозным резистором. &amp;ldquo;×3&amp;rdquo; имеет тот же смысл, что и &amp;ldquo;×2&amp;rdquo;.)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Примечание
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+Эта таблица выбора предоставляет руководящие данные. Пользователи могут выбирать различные значения сопротивления и мощности в зависимости от фактических условий (но значение сопротивления не должно быть меньше рекомендуемого значения в таблице, тогда как мощность может быть больше). Выбор тормозных резисторов должен быть определен на основе мощности, генерируемой двигателем в фактической системе применения, что связано с инерцией системы, временем замедления и энергией потенциальной нагрузки. Клиенты должны выбирать на основе фактических условий. Чем больше инерция системы, чем короче требуемое время замедления и чем чаще тормозится, тем больше мощность и меньше требуется значение сопротивления для тормозного резистора.&lt;/p&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,365 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Поставщик векторных частотных инверторов высокой производительности. – Глава 7 Диагностика неисправностей и противодействие им</title>
+    <link>https://www.senkuogroup.com/ru/docs/fault-diagnosis-and-countermeasures/</link>
+    <description>Recent content in Глава 7 Диагностика неисправностей и противодействие им on Поставщик векторных частотных инверторов высокой производительности.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    
+	  <atom:link href="https://www.senkuogroup.com/ru/docs/fault-diagnosis-and-countermeasures/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>7.1 Сигналы неисправностей и противодействие им</title>
+      <link>https://www.senkuogroup.com/ru/docs/fault-diagnosis-and-countermeasures/fault-alarm-and-countermeasures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/fault-diagnosis-and-countermeasures/fault-alarm-and-countermeasures/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Частотный преобразователь имеет 32 предупреждающих сообщения и защитных функции. При возникновении неисправности активируется защитная функция, преобразователь прекращает вывод, реле контакта неисправности преобразователя работы, и код неисправности отображается на дисплее панели операционного преобразователя. Перед обращением за услугами пользователи могут выполнить самодиагностику в соответствии с подсказками в этом разделе, проанализировать причины неисправности и найти решения. Если требуется обслуживание, пожалуйста, свяжитесь с дилером, у которого вы приобрели частотный преобразователь, или свяжитесь с нашей компанией напрямую.&lt;/p&gt;
+&lt;p&gt;Среди 21 предупредительного сообщения ERR22 указывает на аппаратное перенапряжение или сигнал перенапряжения, и в большинстве случаев неисправности перенапряжения аппаратуры вызывают аварийные сигналы ERR22.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Серийный номер&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Название неисправности&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Код неисправности&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Анализ причины неисправности&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Решение проблемы&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Защита преобразователя&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR01&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Короткое замыкание в выходной цепи преобразователя&lt;/br&gt;2. Слишком длинная проводка мотора и преобразователя&lt;/br&gt;3. Перегрев модуля&lt;/br&gt;4. Неплотное внутреннее подключение преобразователя&lt;/br&gt;5. Ненормальная работа основной платы управления&lt;/br&gt;6. Неправильная работа платы привода&lt;/br&gt;7. Неисправность преобразователя модуля&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Исключите периферийные неисправности&lt;/br&gt;2. Установите реакторы или выходные фильтры&lt;/br&gt;3. Проверьте, не заблокирована ли воздушная труба, работает ли вентилятор нормально, и исключите другие проблемы&lt;/br&gt;4. Подключите все разъемы&lt;/br&gt;5. Обратитесь за технической поддержкой&lt;/br&gt;6. Обратитесь за технической поддержкой&lt;/br&gt;7. Обратитесь за технической поддержкой&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Перегрузка при ускорении&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR02&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Заземление или короткое замыкание в выходной цепи преобразователя&lt;/br&gt;2. Режим векторного управления без идентификации параметров&lt;/br&gt;3. Слишком короткое время ускорения&lt;/br&gt;4. Неправильное ручное повышение крутящего момента или В/Ф-характеристика&lt;/br&gt;5. Низкое напряжение&lt;/br&gt;6. Запуск мотора, который уже вращается&lt;/br&gt;7. Внезапная нагрузка во время ускорения&lt;/br&gt;8. Недостаточно мощности выбора преобразователя&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Исключите периферийные неисправности&lt;/br&gt;2. Выполните идентификацию параметров мотора&lt;/br&gt;3. Увеличьте время ускорения&lt;/br&gt;4. Отрегулируйте ручное повышение крутящего момента В/Ф-характеристики&lt;/br&gt;5. Отрегулируйте напряжение до нормального диапазона&lt;/br&gt;6. Выберите запуск отслеживания скорости или запуск после остановки мотора&lt;/br&gt;7. Удалите внезапную нагрузку&lt;/br&gt;8. Выберите преобразователь большей мощности&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Перегрузка при замедлении&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR03&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Заземление или короткое замыкание в выходной цепи преобразователя&lt;/br&gt;2. Режим векторного управления без идентификации параметров&lt;/br&gt;3. Слишком короткое время замедления&lt;/br&gt;4. Низкое напряжение&lt;/br&gt;5. Внезапная нагрузка при замедлении&lt;/br&gt;6. Не установлены тормозной модуль и тормозная резистор&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Исключите периферийные неисправности&lt;/br&gt;2. Выполните идентификацию параметров мотора&lt;/br&gt;3. Увеличьте время замедления&lt;/br&gt;4. Отрегулируйте напряжение до нормального диапазона&lt;/br&gt;5. Удалите внезапную нагрузку&lt;/br&gt;6. Установите тормозной модуль и резистор&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Перегрузка при постоянной скорости&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR04&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Заземление или короткое замыкание в выходной цепи преобразователя&lt;/br&gt;2. Режим векторного управления без идентификации параметров&lt;/br&gt;3. Низкое напряжение&lt;/br&gt;4. Внезапная нагрузка во время работы&lt;/br&gt;5. Недостаточно мощности выбора преобразователя&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Исключите периферийные неисправности&lt;/br&gt;2. Выполните идентификацию параметров мотора&lt;/br&gt;3. Отрегулируйте напряжение до нормального диапазона&lt;/br&gt;4. Удалите внезапную нагрузку&lt;/br&gt;5. Выберите преобразователь большей мощности&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Перенапряжение при ускорении&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR05&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Входное напряжение слишком высокое&lt;/br&gt;2. Внешняя сила торможения мотора во время ускорения&lt;/br&gt;3. Слишком короткое время ускорения&lt;/br&gt;4. Не установлены тормозной модуль и тормозная резистор&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Отрегулируйте напряжение до нормального диапазона&lt;/br&gt;2. Удалите внешнюю силу или установите тормозной резистор&lt;/br&gt;3. Увеличьте время ускорения&lt;/br&gt;4. Установите тормозной модуль и резистор&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Перенапряжение при замедлении&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR06&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Входное напряжение слишком высокое&lt;/br&gt;2. Внешняя сила торможения мотора во время замедления&lt;/br&gt;3. Слишком короткое время замедления&lt;/br&gt;4. Не установлены тормозной модуль и тормозная резистор&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Отрегулируйте напряжение до нормального диапазона&lt;/br&gt;2. Удалите внешнюю силу или установите тормозной резистор&lt;/br&gt;3. Увеличьте время замедления&lt;/br&gt;4. Установите тормозной модуль и резистор&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Перенапряжение при постоянной скорости&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR07&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Входное напряжение слишком высокое&lt;/br&gt;2. Внешняя сила торможения мотора при замедлении&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Отрегулируйте напряжение до нормального диапазона&lt;/br&gt;2. Удалите внешнюю силу или установите тормозной резистор&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Отключение питания управления&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR08&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Входное напряжение не находится в указанном диапазоне&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Отрегулируйте напряжение в указанном диапазоне&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Низкое напряжение&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR09&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Мгновенное отключение питания&lt;/br&gt;2. Входное напряжение преобразователя не находится в указанном диапазоне&lt;/br&gt;3. Ненормальное напряжение шины&lt;/br&gt;4. Неисправность выпрямительного моста и буферного резистора&lt;/br&gt;5. Ненормальная работа платы привода&lt;/br&gt;6. Ненормальная работа платы управления&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Сбросьте неисправность&lt;/br&gt;2. Отрегулируйте напряжение в нормальный диапазон&lt;/br&gt;3. Обратитесь за технической поддержкой&lt;/br&gt;4. Обратитесь за технической поддержкой&lt;/br&gt;5. Обратитесь за технической поддержкой&lt;/br&gt;6. Обратитесь за технической поддержкой&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Перегрузка преобразователя&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR10&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Слишком большая нагрузка или заблокирован мотор&lt;/br&gt;2. Недостаточно мощности выбора преобразователя&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Уменьшите нагрузку и проверьте мотор и механические условия&lt;/br&gt;2. Выберите преобразователь большей мощности&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Перегрузка мотора&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR11&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Правильно установлен параметр защиты мотора P9-01&lt;/br&gt;2. Слишком большая нагрузка или заблокирован мотор&lt;/br&gt;3. Недостаточно мощности выбора преобразователя&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Правильно установите этот параметр&lt;/br&gt;2. Уменьшите нагрузку и проверьте мотор и механические условия&lt;/br&gt;3. Выберите преобразователь большей мощности&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Потеря фазы входа&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR12&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Ненормальное трехфазное входное питание&lt;/br&gt;2. Ненормальная работа платы привода&lt;/br&gt;3. Ненормальная работа платы защиты от перенапряжения&lt;/br&gt;4. Ненормальная работа основной платы управления&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Проверьте и устраните проблемы в периферийной схеме&lt;/br&gt;2. Обратитесь за технической поддержкой&lt;/br&gt;3. Обратитесь за технической поддержкой&lt;/br&gt;4. Обратитесь за технической поддержкой&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;13&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Потеря фазы выхода&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR13&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Ненормальная проводка от преобразователя к мотору&lt;/br&gt;2. Небалансировка трехфазного выхода преобразователя при работе мотора&lt;/br&gt;3. Ненормальная работа платы привода&lt;/br&gt;4. Неисправность модуля&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Проверьте и устраните проблемы в периферийной схеме&lt;/br&gt;2. Проверьте, является ли трехфазная обмотка мотора нормальной, и устраните неисправности&lt;/br&gt;3. Обратитесь за технической поддержкой&lt;/br&gt;4. Обратитесь за технической поддержкой&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Перегрев модуля&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR14&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Высокая окружающая температура&lt;/br&gt;2. Засорение воздушного канала&lt;/br&gt;3. Повреждение вентилятора&lt;/br&gt;4. Повреждение термистора модуля&lt;/br&gt;5. Повреждение модуля преобразователя&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Снизьте окружающую температуру&lt;/br&gt;2. Очистите вентилятор&lt;/br&gt;3. Замените вентилятор&lt;/br&gt;4. Замените термистор&lt;/br&gt;5. Замените модуль преобразователя&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Неисправность внешнего устройства&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR15&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Вход внешнего сигнала неисправности через многофункциональный терминал X&lt;/br&gt;2. Вход внешнего сигнала неисправности через виртуальную функцию IO&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Сброс и запуск&lt;/br&gt;2. Сброс и запуск&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Неисправность связи&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR16&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Ненормальная работа компьютера-хоста&lt;/br&gt;2. Ненормальная линия связи&lt;/br&gt;3. Зарезервировано&lt;/br&gt;4. Неправильная настройка параметров связи группы PD&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Проверьте подключение компьютера-хоста&lt;/br&gt;2. Проверьте коммуникационный кабель&lt;/br&gt;3. Правильно установите тип коммуникационной карты расширения&lt;/br&gt;4. Правильно настройте параметры связи&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;17&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Неисправность контактора&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR17&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Неисправность платы привода и источника питания&lt;/br&gt;2. Неисправность контактора&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Замените плату привода или плату источника питания&lt;/br&gt;2. Замените контактор&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Неисправность детекции тока&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR18&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Проверьте наличие аномалий в устройствах Холла&lt;/br&gt;2. Неисправность платы привода&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Замените устройство Холла&lt;/br&gt;2. Замените плату привода&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;19&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ошибка настройки мотора&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR19&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Параметры мотора не установлены согласно табличке&lt;/br&gt;2. Превышено время ожидания в процессе идентификации параметров&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Правильно установите параметры мотора согласно табличке&lt;/br&gt;2. Проверьте проводку между преобразователем и мотором&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ошибка чтения/записи EEPROM&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR21&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Повреждение чипа EEPROM&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Замените основную плату управления&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;21&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Аппаратная неисправность преобразователя&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR22&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Присутствует перенапряжение&lt;/br&gt;2. Присутствует перегрузка тока&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Решите вопрос в соответствии с аварийным сигналом перенапряжения&lt;/br&gt;2. Решите вопрос в соответствии с аварийным сигналом перегрузки тока&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Замыкание на корпус&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR23&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Короткое замыкание заземления мотора&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Замените кабели или мотор&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;23&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Проехали накопительное время&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR26&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Накопительное время превысило установленное значение&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Используйте функцию инициализации параметра для очистки информации о записи&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Пользовательская неисправность 1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR27&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Вход сигнала неисправности пользователя 1 через многофункциональный терминал X&lt;/br&gt;2. Вход сигнала неисправности пользователя 1 через виртуальную функцию IO&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Сброс и запуск&lt;/br&gt;2. Сброс и запуск&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Пользовательская неисправность 2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR28&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Вход сигнала неисправности пользователя 2 через многофункциональный терминал X&lt;/br&gt;2. Вход сигнала неисправности пользователя 2 через виртуальную функцию IO&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Сброс и запуск&lt;/br&gt;2. Сброс и запуск&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;26&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Проехали кумулятивное время включения питания&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR29&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Кумулятивное время включения питания достигло установленного значения&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Используйте функцию инициализации параметра для очистки информации о записи&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;27&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ошибка разгрузки&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR30&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Ток работы преобразователя меньше P9-64&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Проверьте, отключена ли нагрузка или соответствуют ли установки параметров P9-64 и P9-65 фактическим рабочим условиям&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;28&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ошибка потери обратной связи PID во время работы&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR31&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Обратная связь PID меньше заданного значения PA-26&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Проверьте обратную связь PID или установите значение PA-26 в соответствующее значение&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;29&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ограничение тока по волне-в-волну&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR40&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Слишком большая нагрузка или заблокирован мотор&lt;/br&gt;2. Недостаточно мощности выбора преобразователя&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Уменьшите нагрузку и проверьте мотор и механические условия&lt;/br&gt;2. Выберите преобразователь большей мощности&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Неисправность переключения мотора во время работы&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR41&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Изменение текущего выбора мотора через терминалы во время работы преобразователя&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Выполните переключение мотора после остановки преобразователя&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;31&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Неисправность перегрева мотора&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR45&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Слабое подключение проводки датчика температуры&lt;/br&gt;2. Моторная температура слишком высока&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Проверьте проводку датчика температуры и устраните неисправности&lt;/br&gt;2. Снизьте частоту или примите другие меры охлаждения для отвода тепла от мотора&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;32&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ошибка начальной позиции&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ERR51&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Параметры мотора слишком сильно отличаются от фактических&lt;/br&gt;2. Уделите внимание тому, правильно ли установлено номинальное значение тока&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Повторно подтвердите параметры мотора, уделив внимание тому, правильно ли установлено номинальное значение тока&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>7.2 Общие неисправности и процедуры устранения для преобразователей</title>
+      <link>https://www.senkuogroup.com/ru/docs/fault-diagnosis-and-countermeasures/common-faults-and-remediation-procedures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/fault-diagnosis-and-countermeasures/common-faults-and-remediation-procedures/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Во время работы преобразователя может возникнуть следующие неисправности. Пожалуйста, обратитесь к следующим методам для простого анализа неисправностей:&lt;/p&gt;
+&lt;h3&gt;Общие неисправности и процедуры устранения для преобразователей&lt;span class=&#34;absolute -mt-20&#34; id=&#34;общие-неисправности-и-процедуры-устранения-для-преобразователей&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d0%b1%d1%89%d0%b8%d0%b5-%d0%bd%d0%b5%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%bd%d0%be%d1%81%d1%82%d0%b8-%d0%b8-%d0%bf%d1%80%d0%be%d1%86%d0%b5%d0%b4%d1%83%d1%80%d1%8b-%d1%83%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%bf%d1%80%d0%b5%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d0%b5%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;№&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Феномен неисправности&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Возможные причины&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Решения&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Отсутствие дисплея после включения питания&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Отсутствие или низкое напряжение питания&lt;/br&gt;2. Неисправность источника питания на плате привода&lt;/br&gt;3. Поврежденный выпрямительный мост&lt;/br&gt;4. Поврежденный буферный резистор преобразователя&lt;/br&gt;5. Неисправность платы управления, клавиатуры или кабеля клавиатуры&lt;/br&gt;6. Обрыв соединительного провода между платой управления, платой привода и клавиатурой&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Проверьте входное питание&lt;/br&gt;2. Обратитесь за услугами производителя преобразователя&lt;/br&gt;3. Проверьте напряжение шины&lt;/br&gt;4. Обратитесь за услугами производителя преобразователя&lt;/br&gt;5. Замените кабель клавиатуры или свяжитесь с производителем преобразователя&lt;/br&gt;6. Обратитесь за услугами производителя преобразователя&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Повторное отображение [ ] после включения питания&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Плохой контакт между платой привода и платой управления&lt;/br&gt;2. Неисправные компоненты на плате управления&lt;/br&gt;3. Низкое напряжение питания&lt;/br&gt;4. Проблемы с источником питания на плате привода&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Переподключите гнездо главной платы&lt;/br&gt;2. Обратитесь за услугами производителя преобразователя&lt;/br&gt;3. Проверьте напряжение питания&lt;/br&gt;4. Обратитесь за услугами производителя преобразователя&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Отображение ERR23 после включения питания&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Короткое замыкание между мотором или выходными линиями и землей&lt;/br&gt;2. Повреждение преобразователя&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Используйте мегаомметр для измерения изоляции мотора и выходных линий&lt;/br&gt;2. Обратитесь за услугами производителя преобразователя&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Нормальное отображение после включения питания, а затем отображение [ ] и немедленное остановка во время работы&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Поврежден или заблокирован вентилятор&lt;/br&gt;2. Короткое замыкание в периферийных соединениях управляющих терминалов&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Замените вентилятор&lt;/br&gt;2. Исключите периферийные короткозамкнутые неисправности&lt;/br&gt;3. Обратитесь за услугами производителя преобразователя&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Частые неисправности ERR14 (перегрев модуля)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Установлена слишком высокая несущая частота&lt;/br&gt;2. Поврежден или заблокирован вентилятор, засорение воздушного канала&lt;/br&gt;3. Повреждение внутренних компонентов преобразователя (термопара или другие)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Снизьте несущую частоту (P0-15)&lt;/br&gt;2. Замените вентилятор и очистите воздушный канал&lt;/br&gt;3. Обратитесь за услугами производителя преобразователя&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Мотор не вращается после работы преобразователя&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Плохое соединение проводов мотора&lt;/br&gt;2. Неверные параметры настройки преобразователя (параметры мотора)&lt;/br&gt;3. Плохой контакт между платой привода и платой управления&lt;/br&gt;4. Неисправность платы привода&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Повторно подтвердите подключение между преобразователем и мотором&lt;/br&gt;2. Замените мотор или устраните механические неисправности&lt;/br&gt;3. Проверьте и сбросьте параметры мотора&lt;/br&gt;4. Обратитесь за услугами производителя преобразователя&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Преобразователь часто сообщает об авариях по перегрузке и перенапряжении&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Неверные настройки параметров мотора&lt;/br&gt;2. Неправильные времена ускорения и замедления&lt;/br&gt;3. Изменения нагрузки&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Сбросьте параметры мотора или выполните настройку мотора&lt;/br&gt;2. Установите правильные времена ускорения и замедления&lt;/br&gt;3. Обратитесь за услугами производителя преобразователя&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

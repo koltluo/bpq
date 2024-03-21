@@ -1,0 +1,884 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Поставщик векторных частотных инверторов высокой производительности. – Глава 8 Протокол связи ModBus</title>
+    <link>https://www.senkuogroup.com/ru/docs/modbus-communication-protocol/</link>
+    <description>Recent content in Глава 8 Протокол связи ModBus on Поставщик векторных частотных инверторов высокой производительности.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    
+	  <atom:link href="https://www.senkuogroup.com/ru/docs/modbus-communication-protocol/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>8.2 Определение адресов данных общения</title>
+      <link>https://www.senkuogroup.com/ru/docs/modbus-communication-protocol/communication-data-address-definition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/modbus-communication-protocol/communication-data-address-definition/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;8.2.2 Данные нефункциональных кодов&lt;span class=&#34;absolute -mt-20&#34; id=&#34;822-данные-нефункциональных-кодов&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#822-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-%d0%bd%d0%b5%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d0%ba%d0%be%d0%b4%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Данные нефункциональных кодов могут быть разделены на функциональные и нефункциональные данные. Последние включают операционные команды, операционное состояние, операционные параметры, информацию об авариях и т. д.&lt;/p&gt;
+&lt;h4&gt;8.2.2.1 Данные функциональных кодов&lt;span class=&#34;absolute -mt-20&#34; id=&#34;8221-данные-функциональных-кодов&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#8221-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d0%ba%d0%be%d0%b4%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Данные функциональных кодов являются важными параметрами настройки инвертора, разделенными на функциональные параметры группы P и группы A. Группы параметров представлены следующим образом:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Данные функциональных кодов&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Диапазон данных&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Атрибутный код&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Группа P&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;P0, P1, P2, P3, P4, P5, P6, P7, P8, P9, PA, PB, PC, PD, PE, PF&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Читаемые и записываемые&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Группа A&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;A0, A1, A2, A3, A4, A5, A6, A7, A8, A9, AA, AB, AC, AD, AE, AF&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Читаемые и записываемые&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Определение адресов коммуникации для данных функциональных кодов выглядит следующим образом:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;При чтении данных функциональных кодов для группы P0~PF и группы A0~AF, старшие шестнадцать бит адреса общения непосредственно представляют номер функциональной группы, а младшие шестнадцать бит представляют порядковый номер функционального кода в функциональной группе. Например:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Функциональный параметр P0-16: его адрес общения - F010H, где F0H представляет функциональный параметр группы P0, а 10H представляет шестнадцатеричный формат данных порядкового номера 16.&lt;/li&gt;
+&lt;li&gt;Функциональный параметр AC-08: его адрес общения - AC08, где ACH представляет функциональный параметр группы AC, а 08H представляет шестнадцатеричный формат данных порядкового номера 08.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;При записи данных функциональных кодов для группы P0~PF функциональных кодов старшие шестнадцать бит адреса общения различаются между 00~0F или F0~FF в зависимости от того, требуется ли запись в EEPROM, а младшие шестнадцать бит непосредственно представляют порядковый номер функционального кода в функциональной группе. Например:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Запись функции для параметра P0-16:
+&lt;ul&gt;
+&lt;li&gt;Если требуется запись в EEPROM, его адрес общения - F010H.&lt;/li&gt;
+&lt;li&gt;Если запись в EEPROM не требуется, его адрес общения - 0010H.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;При записи данных в EEPROM для группы A0~AF функциональных кодов старшие шестнадцать бит адреса общения различаются между 10~4F или A0~AF, а младшие шестнадцать бит непосредственно представляют порядковый номер функционального кода в функциональной группе. Например:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Запись функции параметра AC-08:
+&lt;ul&gt;
+&lt;li&gt;Если требуется запись в EEPROM, его адрес общения - AC08H.&lt;/li&gt;
+&lt;li&gt;Если запись в EEPROM не требуется, его адрес общения - 4C08H.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;8.2.2.2 Данные нефункциональных кодов&lt;span class=&#34;absolute -mt-20&#34; id=&#34;8222-данные-нефункциональных-кодов&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#8222-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-%d0%bd%d0%b5%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d0%ba%d0%be%d0%b4%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Данные нефункциональных кодов&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Диапазон данных&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Атрибутный код&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Данные состояния&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Мониторинг параметров группы U, описание неисправностей инвертора, операционное состояние инвертора&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Читаемые&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Управляющие параметры&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Управляющие команды, параметры связи, управление цифровыми выходными терминалами, управление аналоговым выходом AO1, управление аналоговым выходом AO2, управление выходом высокоскоростного импульса (FMP), параметр инициализации&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Записываемые&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;8.2.3 Данные состояния&lt;span class=&#34;absolute -mt-20&#34; id=&#34;823-данные-состояния&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#823-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-%d1%81%d0%be%d1%81%d1%82%d0%be%d1%8f%d0%bd%d0%b8%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Данные состояния включают мониторинговые параметры группы U, описание неисправностей инвертора и операционное состояние инвертора.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Мониторинговые параметры группы U&lt;br&gt;
+Описание мониторинговых данных группы U можно найти в соответствующем руководстве по функциональным параметрам группы U0. Определение адреса выглядит следующим образом:&lt;br&gt;
+U0~UF, где старшие шестнадцать бит адреса общения изменяются от 70 до 7F, а младшие шестнадцать бит представляют собой порядковый номер мониторящего параметра в группе. Например, U0-11 имеет адрес общения 700BH.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Описание неисправностей инвертора&lt;br&gt;
+При общении для чтения неисправности инвертора адрес фиксируется на 8000H. Чтением данных по этому адресу верхний компьютер может получить текущий код неисправности инвертора. Описания кодов неисправностей можно найти в &lt;a href=&#34;https://www.senkuogroup.com/docs/functional-parameter-table/malfunction-and-protection/&#34; &gt;Главе Пять, Функциональный код P9-14&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Операционное состояние инвертора&lt;br&gt;
+При общении для чтения операционного состояния инвертора адрес фиксируется на 3000H. Чтением данных по этому адресу верхний компьютер может получить текущую информацию об операционном состоянии инвертора, определенную следующим образом:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Адрес общения для операционного состояния инвертора&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Читаемый статус&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3000H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1: Вращение вперед &lt;/br&gt; 2: Вращение назад &lt;/br&gt; 3: Остановлен&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;8.2.4 Управляющие параметры&lt;span class=&#34;absolute -mt-20&#34; id=&#34;824-управляющие-параметры&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#824-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e%d1%89%d0%b8%d0%b5-%d0%bf%d0%b0%d1%80%d0%b0%d0%bc%d0%b5%d1%82%d1%80%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Управляющие параметры включают управляющие команды, управление цифровыми выходными терминалами, управление аналоговым выходом AO1, управление аналоговым выходом AO2 и управление высокоскоростным импульсным выводом FMP.&lt;/p&gt;
+&lt;h3&gt;8.2.5 Управляющие команды&lt;span class=&#34;absolute -mt-20&#34; id=&#34;825-управляющие-команды&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#825-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e%d1%89%d0%b8%d0%b5-%d0%ba%d0%be%d0%bc%d0%b0%d0%bd%d0%b4%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;При выборе P0-02 (источник команды) равным 2: управление посредством связи, верхний компьютер может управлять запуском, остановкой и другими связанными командами инвертора через этот адрес общения. Определения управляющих команд следующие:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Адрес общения для управляющих команд&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Содержимое команды&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2000H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1: Пуск вперед &lt;/br&gt; 2: Пуск назад &lt;/br&gt; 3: Пуск ползания вперед &lt;/br&gt; 4: Пуск ползания назад &lt;/br&gt; 5: Останов свободного хода &lt;/br&gt; 6: Остановка с торможением &lt;/br&gt; 7: Сброс ошибки&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;8.2.6 Управление цифровыми выходными терминалами&lt;span class=&#34;absolute -mt-20&#34; id=&#34;826-управление-цифровыми-выходными-терминалами&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#826-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%bc%d0%b8-%d0%b2%d1%8b%d1%85%d0%be%d0%b4%d0%bd%d1%8b%d0%bc%d0%b8-%d1%82%d0%b5%d1%80%d0%bc%d0%b8%d0%bd%d0%b0%d0%bb%d0%b0%d0%bc%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;При выборе функции цифрового выходного терминала равной 20: управление посредством связи, верхний компьютер может контролировать цифровые выходные терминалы инвертора через этот адрес общения. Определения следующие:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Адрес общения для управления цифровыми выходными терминалами&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Содержимое команды&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2001H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;BiT0: Управление выходом DO1 &lt;/br&gt; BiT1: Управление выходом DO2 &lt;/br&gt; BiT2: Управление выходом RELAY1 &lt;/br&gt; BiT3: Управление выходом RELAY2 &lt;/br&gt; BiT4: Управление выходом FMR &lt;/br&gt; BiT5: Управление выходом VDO1 &lt;/br&gt; BiT6: Управление выходом VDO2 &lt;/br&gt; BiT7: Управление выходом VDO3 &lt;/br&gt; BiT8: Управление выходом VDO4 &lt;/br&gt; BiT9: Управление выходом VDO5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;8.2.7 Управление цифровыми выходными терминалами&lt;span class=&#34;absolute -mt-20&#34; id=&#34;827-управление-цифровыми-выходными-терминалами&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#827-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d1%86%d0%b8%d1%84%d1%80%d0%be%d0%b2%d1%8b%d0%bc%d0%b8-%d0%b2%d1%8b%d1%85%d0%be%d0%b4%d0%bd%d1%8b%d0%bc%d0%b8-%d1%82%d0%b5%d1%80%d0%bc%d0%b8%d0%bd%d0%b0%d0%bb%d0%b0%d0%bc%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Когда функция цифрового выходного терминала выбрана как 20: управление коммуникацией, верхний компьютер может управлять цифровыми выходными терминалами инвертора через этот коммуникационный адрес. Определения следующие:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Коммуникационный адрес для управления цифровыми выходными терминалами&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Содержание команды&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2001H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;BiT0: Управление выходом DO1 &lt;/br&gt; BiT1: Управление выходом DO2 &lt;/br&gt; BiT2: Управление выходом RELAY1 &lt;/br&gt; BiT3: Управление выходом RELAY2 &lt;/br&gt; BiT4: Управление выходом FMR &lt;/br&gt; BiT5: VDO1 &lt;/br&gt; BiT6: VDO2 &lt;/br&gt; BiT7: VDO3 &lt;/br&gt; BiT8: VDO4 &lt;/br&gt; BiT9: VDO5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;8.2.8 Управление аналоговым выходом AO1, AO2, и выходом высокоскоростного импульса FMP&lt;span class=&#34;absolute -mt-20&#34; id=&#34;828-управление-аналоговым-выходом-ao1-ao2-и-выходом-высокоскоростного-импульса-fmp&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#828-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b0%d0%bd%d0%b0%d0%bb%d0%be%d0%b3%d0%be%d0%b2%d1%8b%d0%bc-%d0%b2%d1%8b%d1%85%d0%be%d0%b4%d0%be%d0%bc-ao1-ao2-%d0%b8-%d0%b2%d1%8b%d1%85%d0%be%d0%b4%d0%be%d0%bc-%d0%b2%d1%8b%d1%81%d0%be%d0%ba%d0%be%d1%81%d0%ba%d0%be%d1%80%d0%be%d1%81%d1%82%d0%bd%d0%be%d0%b3%d0%be-%d0%b8%d0%bc%d0%bf%d1%83%d0%bb%d1%8c%d1%81%d0%b0-fmp&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Когда функции аналогового выхода AO1, AO2, и выхода высокоскоростного импульса FMP установлены как 12: настройка коммуникации, верхний компьютер может управлять аналоговым выходом и выходом высокоскоростного импульса инвертора через этот коммуникационный адрес. Определения следующие:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Выходной терминал&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Коммуникационный адрес для управления выходом&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Содержание команды&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;AO1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2002H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0～7FFF представляет 0%～100%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;AO2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2003H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0～7FFF представляет 0%～100%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;FMP&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2004H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0～7FFF представляет 0%～100%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;8.2.9 Инициализация параметров&lt;span class=&#34;absolute -mt-20&#34; id=&#34;829-инициализация-параметров&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#829-%d0%b8%d0%bd%d0%b8%d1%86%d0%b8%d0%b0%d0%bb%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d0%bf%d0%b0%d1%80%d0%b0%d0%bc%d0%b5%d1%82%d1%80%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Когда необходимо выполнить операции инициализации параметров на инверторе через верхний компьютер, используется эта функция. Если PP-00 (пользовательский пароль) не равен 0, сначала необходимо выполнить проверку пароля. После успешной проверки операцию инициализации параметров можно выполнить верхним компьютером через 30 секунд.&lt;/p&gt;
+&lt;p&gt;Коммуникационный адрес для проверки пользовательского пароля - 1F00H. Прямо на этот адрес следует записать правильный пользовательский пароль для завершения проверки пароля.&lt;/p&gt;
+&lt;p&gt;Адрес для инициализации параметров - 1F01H, и его содержание данных определено следующим образом:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Коммуникационный адрес для инициализации параметров&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Функция команды&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1F01H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1: Восстановить заводские параметры &lt;/br&gt; 2: Очистить информацию о записях &lt;/br&gt; 4: Восстановить пользовательские резервные параметры &lt;/br&gt; 501: Резервное копирование текущих пользовательских параметров&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Глава 8 Протокол связи ModBus</title>
+      <link>https://www.senkuogroup.com/ru/docs/modbus-communication-protocol/agreement-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/ru/docs/modbus-communication-protocol/agreement-content/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Инвертор обеспечивает интерфейс связи RS485 и поддерживает протокол связи Modbus-RTU. Пользователи могут осуществлять централизованное управление через компьютер или ПЛК с использованием этого протокола связи. Они могут устанавливать операционные команды инвертора, изменять или читать параметры функционального кода и получать информацию об операционном состоянии и неисправностях инвертора, среди прочих функций.&lt;/p&gt;
+&lt;p&gt;Этот протокол последовательной связи определяет содержание и формат использования информации, передаваемой в последовательной связи. Он включает формат обращения к мастеру (или широковещательный формат), метод кодирования мастера, включающий функциональный код запроса действия, передачу данных и проверку ошибок. Ответ от ведомого также следует той же структуре, включая подтверждение действия, возвращаемые данные и проверку ошибок. Если ведомый обнаруживает ошибку при приеме информации или не может выполнить запрошенное мастером действие, он организует сообщение о неисправности в качестве ответа мастеру.&lt;/p&gt;
+&lt;h3&gt;8.1.1 Режимы применения&lt;span class=&#34;absolute -mt-20&#34; id=&#34;811-режимы-применения&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#811-%d1%80%d0%b5%d0%b6%d0%b8%d0%bc%d1%8b-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Инвертор подключается к &amp;ldquo;одному главному, нескольким ведомым&amp;rdquo; сети управления ПК/ПЛК с шиной RS485 в качестве ведомого устройства связи.&lt;/p&gt;
+&lt;h3&gt;8.1.2 Структура шины&lt;span class=&#34;absolute -mt-20&#34; id=&#34;812-структура-шины&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#812-%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d1%83%d1%80%d0%b0-%d1%88%d0%b8%d0%bd%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Аппаратный интерфейс: предоставляет соединительные разъемы A+ и B- для связи.&lt;/li&gt;
+&lt;li&gt;Топология:
+&lt;ul&gt;
+&lt;li&gt;Система одного главного и нескольких ведомых. Каждому коммуникационному устройству в сети присваивается уникальный адрес ведомого, при этом одно устройство выполняет функции главного коммуникатора (хост ПК, ПЛК, HMI и т. д.). Главный инициирует связь и выполняет операции чтения или записи параметров на ведомых, в то время как остальные устройства действуют в качестве ведомых, отвечая на запросы или коммуникационные операции главного относительно самих себя. Одновременно может отправляться только одно устройство данных, остальные находятся в режиме приема. Адрес ведомого устанавливается в пределах от 1 до 247, при этом 0 зарезервирован для широковещательной связи. Каждый адрес ведомого в сети должен быть уникальным.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Режим передачи данных:
+&lt;ul&gt;
+&lt;li&gt;Асинхронная последовательная, полудуплексная передача. Данные в асинхронной последовательной связи передаются в форме кадров, причем один кадр передается за один раз. В соответствии с протоколом MODBUS-RTU, если на линии связи передача данных отсутствует в течение времени, превышающего 3,5 времени передачи одного символа, это указывает на начало нового кадра связи.
+&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/modbus1.jpg&#34; title=&#34;The Modbus communication transmission method&#34; alt=&#34;The Modbus communication transmission method&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;The Modbus communication transmission method&lt;/figcaption&gt;
+  &lt;/figure&gt;
+Встроенный коммуникационный протокол инвертора - это протокол ведомого устройства Modbus-RTU, который может отвечать на &amp;ldquo;запросы/команды&amp;rdquo; хоста или выполнять соответствующие действия на основе &amp;ldquo;запросов/команд&amp;rdquo; хоста и обмениваться данными.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Хостом может быть персональный компьютер (ПК), промышленное управляющее оборудование или программируемый логический контроллер (ПЛК) и т. д. Хост может общаться индивидуально с конкретным ведомым или передавать широковещательные сообщения всем подчиненным ведомым. Для индивидуального доступа хоста через &amp;ldquo;запросы/команды&amp;rdquo; ведомый, доступный ведомый должен вернуть ответный кадр. В случае широковещательных сообщений, отправленных хостом, ведомые не должны предоставлять ответов.&lt;/p&gt;
+&lt;h3&gt;8.1.3 Структура данных общения&lt;span class=&#34;absolute -mt-20&#34; id=&#34;813-структура-данных-общения&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#813-%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d1%83%d1%80%d0%b0-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Протокол Modbus определяет формат данных общения, как показано ниже. Инвертор поддерживает только чтение или запись параметров типа Word. Соответствующая команда чтения составляет 0x03, а команда записи - 0x06. Операции чтения/записи байтов или битов не поддерживаются:&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/modbus2.jpg&#34; title=&#34;Modbus Communication Data Format&#34; alt=&#34;Modbus Communication Data Format&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Modbus Communication Data Format&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Теоретически, хост-компьютер может считывать несколько последовательных функциональных кодов одновременно (до максимум 12), но следует отметить, что он не может пропустить последний функциональный код в этой группе. В противном случае будет получен ответ об ошибке.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/modbus3.jpg&#34; title=&#34;Modbus Communication Data Format&#34; alt=&#34;Modbus Communication Data Format&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Modbus Communication Data Format&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Если ведомый обнаруживает ошибку кадра связи или другие причины, приводящие к неудачным операциям чтения/записи, он ответит ошибочным кадром.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/modbus4.jpg&#34; title=&#34;Modbus Communication Data Format&#34; alt=&#34;Modbus Communication Data Format&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Modbus Communication Data Format&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;h3&gt;8.1.4 Описание полей кадра&lt;span class=&#34;absolute -mt-20&#34; id=&#34;814-описание-полей-кадра&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#814-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%bb%d0%b5%d0%b9-%d0%ba%d0%b0%d0%b4%d1%80%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Поле&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Описание&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;START (Заголовок кадра)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Более 3,5 символьных времени передачи простоя&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ADR (Адрес ведомого)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Диапазон адресов взаимодействия: 1~247; 0 - широковещательный адрес&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;CMD (Код команды)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;03: Чтение параметров ведомого; 06: Запись параметров ведомого&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Адрес функционального кода (старший)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Внутренний адрес параметра инвертора, представленный в шестнадцатеричной системе; разделен на функциональные и нефункциональные параметры (например, параметры состояния работы, команды работы и т. д.). Подробнее см. в определении адреса. Во время передачи сначала передается старший байт, затем младший байт&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Адрес функционального кода (младший)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;См. выше&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Количество функциональных кодов (старший)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Количество функциональных кодов, считываемых в этом фрейме. Если 1, это означает чтение 1 функционального кода. Во время передачи сначала передается старший байт, затем младший байт. В этом протоколе можно перезаписывать только один функциональный код за один раз, и такого поля не существует.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Количество функциональных кодов (младший)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;См. выше&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Данные (старший)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Возвращаемые данные или специально записанные данные. Во время передачи сначала передается старший байт, затем младший байт&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Данные (младший)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;См. выше&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;CRCCHK (старший)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Контрольное значение: контрольная сумма CRC16. Во время передачи сначала передается старший байт, затем младший байт. См. раздел CRC-проверка для расчета метода.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;CRCCHK (младший)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;См. выше&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;END&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3,5 символьного времени&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;8.1.5 Метод проверки CMD&lt;span class=&#34;absolute -mt-20&#34; id=&#34;815-метод-проверки-cmd&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#815-%d0%bc%d0%b5%d1%82%d0%be%d0%b4-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d1%80%d0%ba%d0%b8-cmd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Метод проверки - это метод циклической избыточности CRC (Cyclical Redundancy Check), использующий формат кадра RTU. Сообщение включает поле обнаружения ошибок на основе метода CRC. Поле CRC проверяет содержимое всего сообщения. Поле CRC состоит из двух байтов, содержащих 16-битное двоичное значение. Оно вычисляется передающим устройством и добавляется к сообщению. Принимающее устройство повторно вычисляет CRC полученного сообщения и сравнивает его с значением в поле CRC полученного сообщения. Если два значения CRC не равны, это указывает на ошибку передачи.&lt;/p&gt;
+&lt;p&gt;В процессе вычисления CRC начальное значение устанавливается равным 0xFFFF, а затем каждый последующий 8-битный байт в сообщении обрабатывается с использованием текущего значения в регистре. Только 8-битные данные в каждом символе являются действительными для CRC, в то время как стартовый бит, стоповый бит и бит четности являются недействительными.&lt;/p&gt;
+&lt;p&gt;В процессе формирования CRC каждый 8-битный символ индивидуально побитово складывается по модулю 2 с содержимым регистра, и результат сдвигается в направлении младшего значащего бита (LSB), при этом старший значащий бит (MSB) заполняется нулем. Извлекается LSB для проверки. Если LSB равен 1, регистр складывается с предварительным значением, и если LSB равен 0, операция не выполняется. Этот процесс повторяется 8 раз. После завершения последнего бита (8-го бита) следующий 8-битный байт побитово складывается с текущим значением в регистре. Конечное значение в регистре является значением CRC после обработки всех байтов в сообщении. При добавлении CRC к сообщению сначала добавляется младший байт, затем старший байт. Функция CRC выглядит следующим образом:&lt;/p&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code&gt;unsigned int CRC16_CHK(unsigned char *data, unsigned char length)
+{
+  int j = 0;
+  unsigned int crc Oxffff reg:
+    while(length--)
+    {
+       crc reg *data&amp;#43;&amp;#43;:
+       for(j=0:j&amp;lt;8:j&amp;#43;&amp;#43;)
+          {
+           if(reg crc 0x01)
+             {
+            reg_crc (reg_crc &amp;gt; 1) 0xa001:
+             }
+       else
+             {
+             reg_crc = reg_crc &amp;gt;&amp;gt; 1;
+             }
+          }
+    }
+    return reg_crc;
+}&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Скопируйте код&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;8.1.6 Правила адресации параметров функционального кода:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;816-правила-адресации-параметров-функционального-кода&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#816-%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d0%b0-%d0%b0%d0%b4%d1%80%d0%b5%d1%81%d0%b0%d1%86%d0%b8%d0%b8-%d0%bf%d0%b0%d1%80%d0%b0%d0%bc%d0%b5%d1%82%d1%80%d0%be%d0%b2-%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be-%d0%ba%d0%be%d0%b4%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Для чтения и записи параметров функционального кода (некоторые функциональные коды не могут быть изменены и используются только производителем или для мониторинга):&lt;/p&gt;
+&lt;p&gt;Адрес параметра представлен номером группы функционального кода и меткой:&lt;/p&gt;
+&lt;p&gt;Старший байт: PO~PF (группа P) AO-AF (группа A) 70~7F (группа U)
+Младший байт: 00~FF&lt;/p&gt;
+&lt;p&gt;Например, если вы хотите получить доступ к диапазону функционального кода P3-12, адрес доступного функционального кода представлен как F30CH.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Примечание:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Группа PF: параметры не могут быть прочитаны или изменены.&lt;/li&gt;
+&lt;li&gt;Группа U: параметры могут только читаться и не могут быть изменены.&lt;/li&gt;
+&lt;li&gt;Некоторые параметры не могут быть изменены при работе инвертора; некоторые параметры не могут быть изменены независимо от состояния инвертора; при изменении параметров функционального кода обратите внимание на диапазон, единицы измерения и связанные инструкции параметров.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Номер группы функционального кода&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Адрес доступного общения&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Адрес фрагмента функционального кода для изменения функционального кода в RAM&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Группа P0~PE&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0xF000~0xFEFF&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0x0000~0x0EFF&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Группа A0~AC&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0xA000~0xACFF&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0x4000~0x4CFF&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Группа U0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0x7000~0x70FF&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Можно только читать, запись невозможна&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Примечание:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Поскольку частое сохранение в EEPROM сокращает срок службы EEPROM. Поэтому для некоторых функциональных кодов в режиме общения не требуется сохранение, а достаточно просто изменить значение в RAM.&lt;/li&gt;
+&lt;li&gt;Если это параметр группы P, для реализации этой функции достаточно изменить старший байт F адреса функционального кода на 0. Если это параметр группы A, для реализации этой функции достаточно изменить старший байт A адреса функционального кода на 4.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Запись в адреса функционального кода в RAM:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Старший байт: 00~0F (группа P) 40~4F (группа A)
+Младший байт: 00~FF&lt;/p&gt;
+&lt;p&gt;Например, функциональный код P3-12 не сохраняется в EEPROM, адрес представлен как 030CH;
+Функциональный код A0-05 не сохраняется в EEPROM, адрес представлен как 4005H.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Примечание:&lt;/strong&gt;
+Это представление адреса можно использовать только для записи в RAM, но не для чтения действий. При чтении это недопустимый адрес. Для всех параметров также можно использовать командный код 07H для реализации этой функции.&lt;/p&gt;
+&lt;h3&gt;8.1.7 Раздел параметров выключения/работы:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;817-раздел-параметров-выключенияработы&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#817-%d1%80%d0%b0%d0%b7%d0%b4%d0%b5%d0%bb-%d0%bf%d0%b0%d1%80%d0%b0%d0%bc%d0%b5%d1%82%d1%80%d0%be%d0%b2-%d0%b2%d1%8b%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d1%8f%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Адрес параметра&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Описание параметра&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Адрес параметра&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Описание параметра&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1000H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Значение настройки связи (десятичное) &lt;/br&gt; -10000-10000&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1010H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ПИД-настройка&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1001H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Рабочая частота&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1011H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Обратная связь ПИД&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1002H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Напряжение шины&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1012H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Шаг ПЛК&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1003H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Частота импульсов ввода, единица 0,01 кГц&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1013H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Обратная связь скорости, единица 0,1 Гц&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1004H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Выходное напряжение&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1014H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Оставшееся время работы&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1005H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Выходной ток&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1015H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Все калибровочные напряжения&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1006H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Выходной крутящий момент&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1016H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Калибровочное напряжение AI2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1007H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Рабочая скорость&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1017H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Калибровочное напряжение AI3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1008H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Флаг входа DI&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1018H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Скорость линии&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1009H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Флаг выхода DO&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1019H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Текущее время работы&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100AH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Вся напряжение&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;101AH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Текущее время работы&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100BH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Напряжение AI2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;101BH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Частота импульсов ввода, единица 1 Гц&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100CH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Напряжение AI3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;101CH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Значение настройки связи&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100DH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Входное значение счетчика&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;101DH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Обратная связь фактической скорости&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100EH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Значение длины&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;101EH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Главная частота X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100FH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Скорость нагрузки&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;101FH&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Побочная частота Y&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Примечание:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Значение настройки связи является процентом относительного значения, где 10000 соответствует 100,00%, а -10000 соответствует -100,00%.&lt;/li&gt;
+&lt;li&gt;Для размерных данных частоты это значение относительно максимальной частоты (P0-10); для размерных данных крутящего момента это значение P2-10, A2-48, A3-48, A4-48 (цифровая установка ограничения крутящего момента, соответствующая первому, второму, третьему и четвертому двигателям соответственно).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Команды управления, вводимые в инвертор: (только запись)&lt;span class=&#34;absolute -mt-20&#34; id=&#34;команды-управления-вводимые-в-инвертор-только-запись&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%ba%d0%be%d0%bc%d0%b0%d0%bd%d0%b4%d1%8b-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b2%d0%b2%d0%be%d0%b4%d0%b8%d0%bc%d1%8b%d0%b5-%d0%b2-%d0%b8%d0%bd%d0%b2%d0%b5%d1%80%d1%82%d0%be%d1%80-%d1%82%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d0%b7%d0%b0%d0%bf%d0%b8%d1%81%d1%8c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Адрес команды&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Функция команды&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2000H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0001: Пуск вперед &lt;/br&gt;0002: Пуск назад &lt;/br&gt;0003: Пуск постоянного движения вперед &lt;/br&gt;0004: Пуск постоянного движения назад &lt;/br&gt;0005: Останов свободного хода &lt;/br&gt;0006: Остановка торможением &lt;/br&gt;0007: Сброс ошибки&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Чтение состояния инвертора: (только чтение)&lt;span class=&#34;absolute -mt-20&#34; id=&#34;чтение-состояния-инвертора-только-чтение&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%87%d1%82%d0%b5%d0%bd%d0%b8%d0%b5-%d1%81%d0%be%d1%81%d1%82%d0%be%d1%8f%d0%bd%d0%b8%d1%8f-%d0%b8%d0%bd%d0%b2%d0%b5%d1%80%d1%82%d0%be%d1%80%d0%b0-%d1%82%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d1%87%d1%82%d0%b5%d0%bd%d0%b8%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Адрес статуса&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Функция статуса&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3000H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0001: Пуск вперед &lt;/br&gt;0002: Пуск назад &lt;/br&gt;0003: Останов&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Проверка пароля блокировки параметра: (Возвращает 888H, если проверка пароля пройдена)&lt;span class=&#34;absolute -mt-20&#34; id=&#34;проверка-пароля-блокировки-параметра-возвращает-888h-если-проверка-пароля-пройдена&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d1%80%d0%ba%d0%b0-%d0%bf%d0%b0%d1%80%d0%be%d0%bb%d1%8f-%d0%b1%d0%bb%d0%be%d0%ba%d0%b8%d1%80%d0%be%d0%b2%d0%ba%d0%b8-%d0%bf%d0%b0%d1%80%d0%b0%d0%bc%d0%b5%d1%82%d1%80%d0%b0-%d0%b2%d0%be%d0%b7%d0%b2%d1%80%d0%b0%d1%89%d0%b0%d0%b5%d1%82-888h-%d0%b5%d1%81%d0%bb%d0%b8-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d1%80%d0%ba%d0%b0-%d0%bf%d0%b0%d1%80%d0%be%d0%bb%d1%8f-%d0%bf%d1%80%d0%be%d0%b9%d0%b4%d0%b5%d0%bd%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Адрес пароля&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Ввод пароля&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1F00H&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;*****&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;8.1.8 Команды управления выходами&lt;span class=&#34;absolute -mt-20&#34; id=&#34;818-команды-управления-выходами&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#818-%d0%ba%d0%be%d0%bc%d0%b0%d0%bd%d0%b4%d1%8b-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b2%d1%8b%d1%85%d0%be%d0%b4%d0%b0%d0%bc%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Адрес команды&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Содержимое команды&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Описание команды управления выходом&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2001H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Бит0: Контроль выхода DO1 &lt;/br&gt;Бит1: Контроль выхода DO2 &lt;/br&gt;Бит2: Контроль выхода RELAY1 &lt;/br&gt;Бит3: Контроль выхода RELAY2 &lt;/br&gt;Бит4: Контроль выхода FMR &lt;/br&gt;Бит5: VDO1 &lt;/br&gt;Бит6: VDO2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Управление цифровыми выходными терминалами: (только запись)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2002H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0~7FFF соответствует 0%~100%&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Управление аналоговым выходом AO1: (только запись)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2003H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0~7FFF соответствует 0%~100%&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Управление аналоговым выходом AO2: (только запись)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2004H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0~7FFF соответствует 0%~100%&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Управление импульсным выходом PULSE: (только запись)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;8.1.9 Описания неисправностей инвертора&lt;span class=&#34;absolute -mt-20&#34; id=&#34;819-описания-неисправностей-инвертора&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#819-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d1%8f-%d0%bd%d0%b5%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%bd%d0%be%d1%81%d1%82%d0%b5%d0%b9-%d0%b8%d0%bd%d0%b2%d0%b5%d1%80%d1%82%d0%be%d1%80%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Адрес неисправности&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Информация о неисправности&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8000H&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0000: Нет неисправностей &lt;/br&gt;0001: Зарезервировано &lt;/br&gt;0002: Чрезмерный ток во время разгона &lt;/br&gt;0003: Чрезмерный ток при торможении &lt;/br&gt;0004: Чрезмерный ток при постоянной скорости &lt;/br&gt;0005: Чрезмерное напряжение при разгоне &lt;/br&gt;0006: Чрезмерное напряжение при торможении &lt;/br&gt;0007: Чрезмерное напряжение при постоянной скорости &lt;/br&gt;0008: Перегрузка буфера резистора &lt;/br&gt;0009: Недостаточное напряжение &lt;/br&gt;000A: Перегрузка инвертора &lt;/br&gt;000B: Перегрузка двигателя &lt;/br&gt;000C: Потеря фазы входа &lt;/br&gt;000D: Потеря фазы выхода &lt;/br&gt;000E: Перегрев модуля &lt;/br&gt;000F: Внешняя неисправность &lt;/br&gt;0010: Нарушение связи &lt;/br&gt;0011: Нарушение контактора &lt;/br&gt;0012: Неисправность датчика тока &lt;/br&gt;0013: Неисправность настройки двигателя &lt;/br&gt;0014: Ошибка счетчика/карты PG &lt;/br&gt;0015: Нарушение чтения/записи параметров &lt;/br&gt;0016: Аппаратная неисправность инвертора &lt;/br&gt;0017: Короткое замыкание двигателя на землю &lt;/br&gt;0018: Зарезервировано &lt;/br&gt;0019: Зарезервировано &lt;/br&gt;001A: Достигнуто время работы &lt;/br&gt;001B: Неисправность пользовательской определенной 1 &lt;/br&gt;001C: Неисправность пользовательской определенной 2 &lt;/br&gt;001D: Достигнуто время включения &lt;/br&gt;001E: Разряд &lt;/br&gt;001F: Потеря обратной связи ПИД во время работы &lt;/br&gt;0028: Тайм-аут быстрой ограниченной тока &lt;/br&gt;0029: Неисправность переключателя двигателя во время работы &lt;/br&gt;002A: Превышение отклонения скорости &lt;/br&gt;002B: Перегрузка двигателя &lt;/br&gt;002D: Перегрев двигателя &lt;/br&gt;005A: Ошибка установки количества линий энкодера &lt;/br&gt;005B: Энкодер не подключен &lt;/br&gt;005C: Ошибка исходной позиции &lt;/br&gt;005E: Скорость&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;8.1.10 Описание параметров коммуникации группы PD&lt;span class=&#34;absolute -mt-20&#34; id=&#34;8110-описание-параметров-коммуникации-группы-pd&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#8110-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bf%d0%b0%d1%80%d0%b0%d0%bc%d0%b5%d1%82%d1%80%d0%be%d0%b2-%d0%ba%d0%be%d0%bc%d0%bc%d1%83%d0%bd%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b8-%d0%b3%d1%80%d1%83%d0%bf%d0%bf%d1%8b-pd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Код параметра&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Название&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Диапазон&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Значение по умолчанию&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Pd-00&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Скорость передачи&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Единица: скорость передачи MODBUS&lt;br&gt;0: 300 бит/с&lt;br&gt;1: 600 бит/с&lt;br&gt;2: 1200 бит/с&lt;br&gt;3: 2400 бит/с&lt;br&gt;4: 4800 бит/с&lt;br&gt;5: 9600 бит/с&lt;br&gt;6: 19200 бит/с&lt;br&gt;7: 38400 бит/с&lt;br&gt;8: 57600 бит/с&lt;br&gt;9: 115200 бит/с&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Pd-01&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Формат данных&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0: Без паритета, формат данных &amp;lt;8,N,2&amp;gt;&lt;br&gt;1: Четный паритет, формат данных &amp;lt;8,E,1&amp;gt;&lt;br&gt;2: Нечетный паритет, формат данных &amp;lt;8,0,1&amp;gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Pd-02&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Адрес устройства&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1~247, 0 для широковещательного адреса&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Pd-03&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Задержка ответа&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0~20 мс&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2 мс&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Задержка ответа: временной интервал от окончания приема данных инвертором до отправки данных хосту. Если задержка ответа меньше времени обработки системы, она основана на времени обработки системы. Если задержка ответа больше времени обработки системы, система должна ждать, пока не пройдет время задержки ответа, прежде чем отправить данные хосту.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Код параметра&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Название&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Диапазон&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Значение по умолчанию&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Pd-04&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Тайм-аут обмена&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0,0 с (недействительно) до 60,0 с&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2 мс&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &lt;p&gt;Примечание:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Когда код параметра установлен в 0,0 с, параметр времени ожидания обмена недействителен.&lt;/li&gt;
+&lt;li&gt;Когда код параметра установлен в допустимое значение, если интервал между последовательными обменами превышает время ожидания обмена, система выдаст ошибку неисправности обмена (Err16). Обычно этот параметр устанавливается в недопустимое значение. Установка этого параметра в непрерывных системах связи позволяет контролировать состояние связи.&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Код параметра&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Название&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Диапазон&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Значение по умолчанию&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Pd-05&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Протокол Modbus&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0: Нестандартный протокол Modbus&lt;br&gt;1: Стандартный протокол Modbus&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      &lt;p&gt;Примечание:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pd-05=1: Выбор стандартного протокола Modbus.&lt;/li&gt;
+&lt;li&gt;Pd-05=0: При чтении команд количество байтов, возвращаемых ведомым, на одно больше, чем в стандартном протоколе Modbus. Подробности см. в разделе Структура данных общения этого протокола.&lt;/li&gt;
+&lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Код параметра&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Название&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Диапазон&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Значение по умолчанию&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Pd-06&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Разрешение текущего значения коммуникации&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0: 0,01 А&lt;br&gt;1: 0,1 А&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Примечание: Определяет единицу вывода значения тока при коммуникации для чтения выходного тока.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;ДАЛЕЕ&lt;span class=&#34;absolute -mt-20&#34; id=&#34;далее&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b4%d0%b0%d0%bb%d0%b5%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Перейдите непосредственно к следующему разделу, чтобы начать:&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Купить сейчас&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Оглавление руководства пользователя для частотного преобразователя&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/ru/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Часто задаваемые вопросы (ЧЗВ) о частотных преобразователях&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

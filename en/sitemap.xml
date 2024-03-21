@@ -10,6 +10,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/product-information/technical-specifications-table/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/product-information/technical-specifications-table/"
                 />
@@ -19,6 +24,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/mounting/overall-equipment-dimensional-diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/mounting/overall-equipment-dimensional-diagram/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -34,6 +44,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/mounting/main-circuit-terminals-and-functions/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/mounting/main-circuit-terminals-and-functions/"
                 />
@@ -43,6 +58,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/panel-display-and-operation/display-interface-introduction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/panel-display-and-operation/display-interface-introduction/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -58,6 +78,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/basic-parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/functional-parameter-table/basic-parameters/"
                 />
@@ -67,6 +92,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/industry-application-macro-usage-instructions/restore-to-factory-settings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/industry-application-macro-usage-instructions/restore-to-factory-settings/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -82,6 +112,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/fault-diagnosis-and-countermeasures/fault-alarm-and-countermeasures/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/fault-diagnosis-and-countermeasures/fault-alarm-and-countermeasures/"
                 />
@@ -91,6 +126,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/modbus-communication-protocol/agreement-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/modbus-communication-protocol/agreement-content/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -106,6 +146,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/table-of-contents/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/table-of-contents/"
                 />
@@ -115,6 +160,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/product-information/product-aluminum-plate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/product-information/product-aluminum-plate/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -130,6 +180,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/panel-display-and-operation/terminal-application-wiring-diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/panel-display-and-operation/terminal-application-wiring-diagram/"
                 />
@@ -139,6 +194,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/functional-parameter-table/motor-parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/motor-parameters/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -154,6 +214,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/industry-application-macro-usage-instructions/constant-pressure-water-supply-macro-settings/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/industry-application-macro-usage-instructions/constant-pressure-water-supply-macro-settings/"
                 />
@@ -163,6 +228,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/fault-diagnosis-and-countermeasures/common-faults-and-remediation-procedures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/fault-diagnosis-and-countermeasures/common-faults-and-remediation-procedures/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -178,6 +248,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/modbus-communication-protocol/communication-data-address-definition/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/modbus-communication-protocol/communication-data-address-definition/"
                 />
@@ -187,6 +262,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/safety-precautions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/safety-precautions/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -202,6 +282,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/product-information/model-description/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/product-information/model-description/"
                 />
@@ -214,6 +299,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/mounting/control-circuit-terminals-and-functions/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/mounting/control-circuit-terminals-and-functions/"
                 />
@@ -223,6 +313,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/functional-parameter-table/vector-parameter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/vector-parameter/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -250,6 +345,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/product-information/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/product-information/"
                 />
@@ -259,6 +359,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/product-information/product-selection-specification-table/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/product-information/product-selection-specification-table/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -274,6 +379,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/mounting/control-terminals-and-functions/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/mounting/control-terminals-and-functions/"
                 />
@@ -283,6 +393,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/functional-parameter-table/v-f-control-parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/v-f-control-parameters/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -298,6 +413,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/industry-application-macro-usage-instructions/engraving-machine-macro-settings/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/industry-application-macro-usage-instructions/engraving-machine-macro-settings/"
                 />
@@ -307,6 +427,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/mounting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/mounting/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -322,6 +447,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/product-information/keyboard-tray-dimensional-diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/product-information/keyboard-tray-dimensional-diagram/"
                 />
@@ -331,6 +461,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/mounting/mechanical-installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/mounting/mechanical-installation/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -346,6 +481,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/input-terminal-parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/functional-parameter-table/input-terminal-parameters/"
                 />
@@ -355,6 +495,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/panel-display-and-operation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/panel-display-and-operation/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -370,6 +515,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/product-information/the-daily-maintenance-and-service-of-variable-frequency-drives/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/product-information/the-daily-maintenance-and-service-of-variable-frequency-drives/"
                 />
@@ -379,6 +529,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/mounting/peripheral-electrical-component-selection-guide-for-variable-frequency-drives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/mounting/peripheral-electrical-component-selection-guide-for-variable-frequency-drives/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -394,6 +549,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/output-terminal-parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/functional-parameter-table/output-terminal-parameters/"
                 />
@@ -403,6 +563,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/functional-parameter-table/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -418,6 +583,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/product-information/variable-frequency-drive-selection-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/product-information/variable-frequency-drive-selection-guide/"
                 />
@@ -427,6 +597,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/functional-parameter-table/start-stop-control-parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/start-stop-control-parameters/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -442,6 +617,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/industry-application-macro-usage-instructions/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/industry-application-macro-usage-instructions/"
                 />
@@ -451,6 +631,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/product-information/variable-frequency-drive-braking-component-selection-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/product-information/variable-frequency-drive-braking-component-selection-guide/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -466,6 +651,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/keyboard-and-display/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/functional-parameter-table/keyboard-and-display/"
                 />
@@ -475,6 +665,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/fault-diagnosis-and-countermeasures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/fault-diagnosis-and-countermeasures/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -490,6 +685,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/accessibility-features/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/functional-parameter-table/accessibility-features/"
                 />
@@ -499,6 +699,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/modbus-communication-protocol/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/modbus-communication-protocol/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -514,6 +719,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/malfunction-and-protection/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/functional-parameter-table/malfunction-and-protection/"
                 />
@@ -523,6 +733,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/warranty-instructions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/warranty-instructions/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -538,6 +753,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/pid-function-parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/functional-parameter-table/pid-function-parameters/"
                 />
@@ -547,6 +767,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/functional-parameter-table/pulse-frequency-and-counting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/pulse-frequency-and-counting/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -562,6 +787,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/multi-segment-speed-instructions-and-simplified-plc/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/functional-parameter-table/multi-segment-speed-instructions-and-simplified-plc/"
                 />
@@ -571,6 +801,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/functional-parameter-table/communication-parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/communication-parameters/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -586,6 +821,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/function-code-management/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/functional-parameter-table/function-code-management/"
                 />
@@ -595,6 +835,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/functional-parameter-table/control-optimization-parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/control-optimization-parameters/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -610,6 +855,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/intelligent-constant-pressure-water-supply-parameters/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/docs/functional-parameter-table/intelligent-constant-pressure-water-supply-parameters/"
                 />
@@ -619,6 +869,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/functional-parameter-table/parameter-monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/functional-parameter-table/parameter-monitoring/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -635,6 +890,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -669,6 +929,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -714,6 +979,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -811,6 +1081,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/about/"
                 />
@@ -820,6 +1095,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -837,6 +1117,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/products/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/products/"
                 />
@@ -849,6 +1134,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/products/vfd/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.senkuogroup.com/products/vfd/"
                 />
@@ -858,6 +1148,11 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://www.senkuogroup.com/zh-cn/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.senkuogroup.com/ru/docs/"
                 />
     <xhtml:link
                 rel="alternate"
